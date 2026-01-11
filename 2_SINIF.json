@@ -1,0 +1,861 @@
+[
+  {
+    "sinif": "2.SINIF",
+    "dersler": [
+      {
+        "ad": "Beden Eğitimi ve Oyun",
+        "plan": [
+          {
+            "ay": "EYLÜL",
+            "hafta": "1. Hafta: 8-12 Eylül",
+            "konu": "Temel Hareket Becerileri",
+            "icerik": "BEO.2.1.1. Temel hareket becerilerini sergileyebilme"
+          },
+          {
+            "ay": "EYLÜL",
+            "hafta": "2. Hafta: 15-19 Eylül",
+            "konu": "Temel Hareket Becerileri",
+            "icerik": "BEO.2.1.1. Temel hareket becerilerini sergileyebilme"
+          },
+          {
+            "ay": "EYLÜL",
+            "hafta": "3. Hafta: 22-26 Eylül",
+            "konu": "Temel Hareket Becerileri",
+            "icerik": "BEO.2.1.1. Temel hareket becerilerini sergileyebilme"
+          },
+          {
+            "ay": "EYLÜL",
+            "hafta": "4. Hafta: 29 Eylül- 3 Ekim",
+            "konu": "Temel Hareket Becerileri",
+            "icerik": "BEO.2.1.1. Temel hareket becerilerini sergileyebilme"
+          },
+          {
+            "ay": "EKİM",
+            "hafta": "5. Hafta: 6-10 Ekim",
+            "konu": "Temel Hareket Becerileri",
+            "icerik": "BEO.2.1.1. Temel hareket becerilerini sergileyebilme"
+          },
+          {
+            "ay": "EKİM",
+            "hafta": "6. Hafta: 13-17 Ekim",
+            "konu": "Temel Hareket Becerileri",
+            "icerik": "BEO.2.1.1. Temel hareket becerilerini sergileyebilme"
+          },
+          {
+            "ay": "EKİM",
+            "hafta": "7. Hafta: 20-24 Ekim",
+            "konu": "Temel Hareket Becerileri",
+            "icerik": "BEO.2.1.1. Temel hareket becerilerini sergileyebilme"
+          },
+          {
+            "ay": "EKİM",
+            "hafta": "8. Hafta 27-31 Ekim",
+            "konu": "Temel Hareket Becerileri",
+            "icerik": "BEO.2.1.1. Temel hareket becerilerini sergileyebilme"
+          },
+          {
+            "ay": "KASIM",
+            "hafta": "9. Hafta: 3-7 Kasım",
+            "konu": "Oyunlarda Grupla Hareket",
+            "icerik": "BEO.2.1.2. Oyunlarda grupla hareket edebilme"
+          },
+          {
+            "ay": "KASIM",
+            "hafta": "10. Hafta: 17-21 Kasım",
+            "konu": "Oyunlarda Grupla Hareket",
+            "icerik": "BEO.2.1.2. Oyunlarda grupla hareket edebilme"
+          },
+          {
+            "ay": "KASIM",
+            "hafta": "11. Hafta: 24-28 Kasım",
+            "konu": "Oyunlarda Grupla Hareket",
+            "icerik": "BEO.2.1.2. Oyunlarda grupla hareket edebilme"
+          },
+          {
+            "ay": "ARALIK",
+            "hafta": "12. Hafta: 1-5 Aralık",
+            "konu": "Oyunlarda Grupla Hareket",
+            "icerik": "BEO.2.1.2. Oyunlarda grupla hareket edebilme"
+          },
+          {
+            "ay": "ARALIK",
+            "hafta": "13. Hafta: 8-12 Aralık",
+            "konu": "Oyunlarda Grupla Hareket",
+            "icerik": "BEO.2.1.2. Oyunlarda grupla hareket edebilme"
+          },
+          {
+            "ay": "ARALIK",
+            "hafta": "14. Hafta: 15-19 Aralık",
+            "konu": "Oyunlarda Hareket Kavramları",
+            "icerik": "BEO.2.2.1. Oyunlarda hareket kavramlarını uygulayabilme"
+          },
+          {
+            "ay": "ARALIK",
+            "hafta": "15. Hafta: 22-26 Aralık",
+            "konu": "Oyunlarda Hareket Kavramları",
+            "icerik": "BEO.2.2.1. Oyunlarda hareket kavramlarını uygulayabilme"
+          },
+          {
+            "ay": "ARALIK",
+            "hafta": "16. Hafta 29 Aralık- 2 Ocak",
+            "konu": "Oyun Kuralları",
+            "icerik": "BEO.2.2.2. Oyun kurallarını uygulayabilme"
+          },
+          {
+            "ay": "OCAK",
+            "hafta": "17. Hafta: 5-9 Ocak",
+            "konu": "Oyun Kuralları",
+            "icerik": "BEO.2.2.2. Oyun kurallarını uygulayabilme"
+          },
+          {
+            "ay": "OCAK",
+            "hafta": "18. Hafta: 12-16 Ocak",
+            "konu": "Oyunlarda Taktik ve Strateji",
+            "icerik": "BEO.2.2.3. Oyunlarda belirlenen taktik ve stratejiyi geliştirebilme"
+          },
+          {
+            "ay": "ŞUBAT",
+            "hafta": "19. Hafta: 2-6 Şubat",
+            "konu": "Oyunlarda Taktik ve Strateji",
+            "icerik": "BEO.2.2.3. Oyunlarda belirlenen taktik ve stratejiyi geliştirebilme"
+          },
+          {
+            "ay": "ŞUBAT",
+            "hafta": "20. Hafta: 9-13 Şubat",
+            "konu": "Belirlenen Tempodaki Müziğe Uygun Hareket Etme",
+            "icerik": "BEO.2.3.1. Belirlenen tempodaki müziğe uygun hareket edebilme"
+          },
+          {
+            "ay": "ŞUBAT",
+            "hafta": "21. Hafta: 16-20 Şubat",
+            "konu": "Belirlenen Tempodaki Müziğe Uygun Hareket Etme",
+            "icerik": "BEO.2.3.1. Belirlenen tempodaki müziğe uygun hareket edebilme"
+          },
+          {
+            "ay": "ŞUBAT",
+            "hafta": "22. Hafta: 23-27 Şubat",
+            "konu": "Eşle veya Grupla Ritmik Hareket",
+            "icerik": "BEO.2.3.2. Eşle veya grupla ritmik hareket etme becerisini sergileyebilme"
+          },
+          {
+            "ay": "MART",
+            "hafta": "23. Hafta: 2-6 Mart",
+            "konu": "Eşle veya Grupla Ritmik Hareket",
+            "icerik": "BEO.2.3.2. Eşle veya grupla ritmik hareket etme becerisini sergileyebilme"
+          },
+          {
+            "ay": "MART",
+            "hafta": "24. Hafta: 9-13 Mart",
+            "konu": "Eşle veya Grupla Ritmik Hareket",
+            "icerik": "BEO.2.3.2. Eşle veya grupla ritmik hareket etme becerisini sergileyebilme"
+          },
+          {
+            "ay": "MART",
+            "hafta": "25. Hafta 23-27 Mart",
+            "konu": "Eşle veya Grupla Ritmik Hareket Fiziksel Aktiviteye Katılım Sırasında Vücutta Meydana Gelen Değişimler",
+            "icerik": "BEO.2.3.2. Eşle veya grupla ritmik hareket etme becerisini sergileyebilme BEO.2.4.1. Fiziksel aktivite sırasında vücudunda meydana gelen değişimleri açıklayabilme"
+          },
+          {
+            "ay": "MART",
+            "hafta": "26. Hafta: 30 Mart- 3 Nisan",
+            "konu": "Fiziksel Aktiviteye Katılım Sırasında Vücutta Meydana Gelen Değişimler",
+            "icerik": "BEO.2.4.1. Fiziksel aktivite sırasında vücudunda meydana gelen değişimleri açıklayabilme"
+          },
+          {
+            "ay": "NİSAN",
+            "hafta": "27. Hafta: 6-10 Nisan",
+            "konu": "Fiziksel Aktiviteye Katılım Sırasında Vücutta Meydana Gelen Değişimler",
+            "icerik": "BEO.2.4.1. Fiziksel aktivite sırasında vücudunda meydana gelen değişimleri açıklayabilme"
+          },
+          {
+            "ay": "NİSAN",
+            "hafta": "28. Hafta: 13-17 Nisan",
+            "konu": "Fiziksel Aktiviteye Katılım",
+            "icerik": "BEO.2.4.2. Kendisinin ve yakın çevresinin fiziksel aktiviteye katılımlarını karşılaştırabilme"
+          },
+          {
+            "ay": "NİSAN",
+            "hafta": "29. Hafta: 20-24 Nisan",
+            "konu": "Fiziksel Aktiviteye Katılım",
+            "icerik": "BEO.2.4.2. Kendisinin ve yakın çevresinin fiziksel aktiviteye katılımlarını karşılaştırabilme"
+          },
+          {
+            "ay": "NİSAN",
+            "hafta": "30. Hafta: 27 Nisan- 30 Nisan",
+            "konu": "Fiziksel Aktiviteye Katılım Hedefleri",
+            "icerik": "BEO.2.4.3. Fiziksel aktiviteye katılım hedefleri belirleyebilme"
+          },
+          {
+            "ay": "MAYIS",
+            "hafta": "31. Hafta: 4-8 Mayıs",
+            "konu": "Fiziksel Aktiviteye Katılım Hedefleri",
+            "icerik": "BEO.2.4.3. Fiziksel aktiviteye katılım hedefleri belirleyebilme"
+          },
+          {
+            "ay": "MAYIS",
+            "hafta": "32. Hafta: 11-15 Mayıs",
+            "konu": "Fiziksel Aktivite ve Sağlık İlişkisi",
+            "icerik": "BEO.2.4.4. Fiziksel aktivite ve sağlık arasındaki ilişkiyi açıklayabilme"
+          },
+          {
+            "ay": "MAYIS",
+            "hafta": "33. Hafta: 18-22 Mayıs",
+            "konu": "Fiziksel Aktivite ve Sağlık İlişkisi",
+            "icerik": "BEO.2.4.4. Fiziksel aktivite ve sağlık arasındaki ilişkiyi açıklayabilme"
+          },
+          {
+            "ay": "HAZİRAN",
+            "hafta": "34. Hafta 1-5 Haziran",
+            "konu": "Oyun ve Fiziksel Aktivitelerde Güvenli Ortam",
+            "icerik": "BEO.2.4.5. Oyun ve fiziksel aktiviteler sırasında güvenli ortam oluşturabilme"
+          }
+        ]
+      },
+      {
+        "ad": "Hayat Bilgisi",
+        "plan": [
+          {
+            "ay": "EYLÜL-EKİM",
+            "hafta": "1. Hafta: 8-12 Eylül",
+            "konu": "Arkadaşlık İlişkilerini Etkileyen Duygu, Düşünce ve Davranışlar",
+            "icerik": "HB.2.1.1. Arkadaşlık ilişkilerini düzenleyebilme"
+          },
+          {
+            "ay": "EYLÜL-EKİM",
+            "hafta": "2. Hafta: 15-19 Eylül",
+            "konu": "Güçlü ve Gelişime Açık Alanlar",
+            "icerik": "HB.2.1.2. Güçlü ve gelişime açık olduğu alanlara karar verebilme"
+          },
+          {
+            "ay": "EYLÜL-EKİM",
+            "hafta": "3. Hafta: 22-26 Eylül",
+            "konu": "Güçlü ve Gelişime Açık Alanlar",
+            "icerik": "HB.2.1.2. Güçlü ve gelişime açık olduğu alanlara karar verebilme"
+          },
+          {
+            "ay": "EYLÜL-EKİM",
+            "hafta": "4. Hafta: 29 Eylül-3 Ekim",
+            "konu": "İletişim Kuralları",
+            "icerik": "HB.2.1.3. Öğretmen ve arkadaşlarıyla etkili iletişim kurabilme"
+          },
+          {
+            "ay": "EKİM-KASIM",
+            "hafta": "5. Hafta: 6-10 Ekim",
+            "konu": "Sınıf İçi Karar Alma Süreçleri",
+            "icerik": "HB.2.1.4. Sınıf içi karar alma süreçlerine katılım sağlayabilme"
+          },
+          {
+            "ay": "EKİM-KASIM",
+            "hafta": "6. Hafta: 13-17 Ekim",
+            "konu": "Sınıf İçi Karar Alma Süreçleri",
+            "icerik": "HB.2.1.4. Sınıf içi karar alma süreçlerine katılım sağlayabilme"
+          },
+          {
+            "ay": "EKİM-KASIM",
+            "hafta": "7. Hafta: 20-24 Ekim",
+            "konu": "Sağlıklı Büyüme ve Gelişmeyi Etkileyen Etkenler",
+            "icerik": "HB.2.2.1. Sağlıklı büyüme ve gelişme için yapması gerekenleri belirleyebilme"
+          },
+          {
+            "ay": "KASIM",
+            "hafta": "9. Hafta: 3-7 Kasım",
+            "konu": "Sağlıklı Büyüme ve Gelişmeyi Etkileyen Etkenler",
+            "icerik": "HB.2.2.1. Sağlıklı büyüme ve gelişme ile alışkanlıkları arasındaki ilişkiyi çözümleyebilme"
+          },
+          {
+            "ay": "KASIM",
+            "hafta": "10. Hafta: 17-21 Kasım",
+            "konu": "Kişisel Alan Sınırlarını Koruma",
+            "icerik": "HB.2.2.2. Kişisel alanının sınırlarını koruyabilme"
+          },
+          {
+            "ay": "KASIM",
+            "hafta": "11. Hafta: 24-28 Kasım",
+            "konu": "Trafil İşaret Levhaları",
+            "icerik": "HB.2.2.3. Temel trafik işaret levhalarını tanıyabilme"
+          },
+          {
+            "ay": "ARALIK",
+            "hafta": "12. Hafta: 1-5 Aralık",
+            "konu": "Acil Durumlardaki Davranışlar",
+            "icerik": "HB.2.2.4. Acil bir durumda yetkililerle etkili iletişim kurabilme"
+          },
+          {
+            "ay": "ARALIK",
+            "hafta": "13. Hafta: 8-12 Aralık",
+            "konu": "Acil Durumlardaki Davranışlar Ailenin Önemi",
+            "icerik": "HB.2.2.4. Acil bir durumda yetkililerle etkili iletişim kurabilme HB.2.3.1. Ailenin önemini yorumlayabilme"
+          },
+          {
+            "ay": "ARALIK",
+            "hafta": "14. Hafta: 15-19 Aralık",
+            "konu": "Ailenin Önemi",
+            "icerik": "HB.2.3.1. Ailenin önemini yorumlayabilme"
+          },
+          {
+            "ay": "ARALIK",
+            "hafta": "15. Hafta: 23-26 Aralık",
+            "konu": "Ailede Nezaket ve Görgü Kuralları",
+            "icerik": "HB.2.3.2. Toplumsal yaşamda nezaket ve görgü kurallarına uygun davranabilme"
+          },
+          {
+            "ay": "ARALIK-OCAK",
+            "hafta": "16. Hafta: 29 Aralık-2 Ocak",
+            "konu": "Ailedeki Görev ve Sorumluluklar",
+            "icerik": "HB.2.3.3. Yakın çevresinde üzerine düşen görev ve sorumlulukları günlük yaşamına yansıtabilme"
+          },
+          {
+            "ay": "ARALIK-OCAK",
+            "hafta": "17. Hafta: 5-9 Ocak",
+            "konu": "Ailedeki Görev ve Sorumluluklar",
+            "icerik": "HB.2.3.3. Yakın çevresinde üzerine düşen görev ve sorumlulukları günlük yaşamına yansıtabilme"
+          },
+          {
+            "ay": "ARALIK-OCAK",
+            "hafta": "18. Hafta: 12-16 Ocak",
+            "konu": "Ailedeki Görev ve Sorumluluklar Tarihî Mekânlar ve Doğal Güzellikler",
+            "icerik": "HB.2.3.3. Yakın çevresinde üzerine düşen görev ve sorumlulukları günlük yaşamına yansıtabilme HB.2.4.1. Yakın çevresinde bulunan tarihî mekân ve doğal güzellikleri belirleyebilme"
+          },
+          {
+            "ay": "ŞUBAT",
+            "hafta": "19. Hafta: 2-6 Şubat",
+            "konu": "Tarihî Mekânlar ve Doğal Güzellikler",
+            "icerik": "HB.2.4.1. Yakın çevresinde bulunan tarihî mekân ve doğal güzellikleri belirleyebilme"
+          },
+          {
+            "ay": "ŞUBAT",
+            "hafta": "20. Hafta: 9-13 Şubat",
+            "konu": "Yaşadığı Yerin Yönetim Birimleri",
+            "icerik": "HB.2.4.2. Yaşadığı yerin yönetim birimleri ile ilgili kaynaklardan bilgi toplayabilme"
+          },
+          {
+            "ay": "ŞUBAT",
+            "hafta": "21. Hafta: 16-20 Şubat",
+            "konu": "Mustafa Kemal Atatürk’ün Öğrencilik Yılları",
+            "icerik": "HB.2.4.3. Mustafa Kemal Atatürk’ün öğrencilik yıllarına ait anıları yorumlayabilme"
+          },
+          {
+            "ay": "ŞUBAT",
+            "hafta": "22. Hafta: 23-27 Şubat",
+            "konu": "Mustafa Kemal Atatürk’ün Öğrencilik Yılları Millî Gün ve Bayramların Önemi",
+            "icerik": "HB.2.4.3. Mustafa Kemal Atatürk’ün öğrencilik yıllarına ait anıları yorumlayabilme HB.2.4.4. Millî gün ve bayramların önemini yorumlayabilme"
+          },
+          {
+            "ay": "MART",
+            "hafta": "23. Hafta: 2-6 Mart",
+            "konu": "Millî Gün ve Bayramların Önemi",
+            "icerik": "HB.2.4.4. Millî gün ve bayramların önemini yorumlayabilme"
+          },
+          {
+            "ay": "MART",
+            "hafta": "24. Hafta: 9-13 Mart",
+            "konu": "Dinî Gün ve Bayramların Önemi",
+            "icerik": "HB.2.4.5. Dinî gün ve bayramların önemini yorumlayabilme"
+          },
+          {
+            "ay": "MART",
+            "hafta": "25. Hafta: 23-27 Mart",
+            "konu": "Dinî Gün ve Bayramların Önemi",
+            "icerik": "HB.1.4.5. Dinî gün ve bayramlarda yaşadığı duyguları ifade edebilme"
+          },
+          {
+            "ay": "MART",
+            "hafta": "26. Hafta: 30 Mart-3 Nisan",
+            "konu": "Hava Olayları ve Mevsimler",
+            "icerik": "HB.2.5.1. Hava olayları ve mevsimler arasındaki ilişkiyi çözümleyebilme"
+          },
+          {
+            "ay": "NİSAN-MAYIS",
+            "hafta": "27. Hafta: 6-10 Nisan",
+            "konu": "Hava Olayları ve Mevsimler",
+            "icerik": "HB.2.5.1. Hava olayları ve mevsimler arasındaki ilişkiyi çözümleyebilme"
+          },
+          {
+            "ay": "NİSAN-MAYIS",
+            "hafta": "28. Hafta: 13-17 Nisan",
+            "konu": "Doğadan Yararlanarak Yön Bulma",
+            "icerik": "HB.2.5.2. Doğadan yararlanarak yönünü belirleyebilme"
+          },
+          {
+            "ay": "NİSAN-MAYIS",
+            "hafta": "29. Hafta: 20-24 Nisan",
+            "konu": "Afetlere Karşı Alınacak Önlemler",
+            "icerik": "HB.2.5.3. Afetlere karşı alınması gereken önlemlere ilişkin bilgi toplayabilme"
+          },
+          {
+            "ay": "NİSAN-MAYIS",
+            "hafta": "30. Hafta: 27 Nisan-30 Nisan",
+            "konu": "Afetlere Karşı Alınacak Önlemler",
+            "icerik": "HB.2.5.3. Afetlere karşı alınması gereken önlemlere ilişkin bilgi toplayabilme"
+          },
+          {
+            "ay": "MAYIS",
+            "hafta": "31. Hafta: 4-8 Mayıs",
+            "konu": "Kaynakları Tasarruflu Kullanma",
+            "icerik": "HB.2.5.4. Kaynakları tasarruflu kullanmanın önemini değerlendirebilme"
+          },
+          {
+            "ay": "MAYIS",
+            "hafta": "32. Hafta: 11-15 Mayıs",
+            "konu": "Bilim İnsanlarının Bilime Katkıları",
+            "icerik": "HB.2.6.1. Bilim insanlarının bilime katkılarına yönelik verilen kaynaklardan bilgi toplayabilme"
+          },
+          {
+            "ay": "MAYIS",
+            "hafta": "33. Hafta: 18-22 Mayıs",
+            "konu": "Bilim İnsanlarının Bilime Katkıları",
+            "icerik": "HB.2.6.1. Bilim insanlarının bilime katkılarına yönelik verilen kaynaklardan bilgi toplayabilme"
+          },
+          {
+            "ay": "MAYIS",
+            "hafta": "34. Hafta: 25-29 Mayıs",
+            "konu": "Teknolojik Ürünlerin Zaman İçerisindeki Değişimi",
+            "icerik": "HB.2.6.2. Günlük yaşamda kullanılan teknolojik bir ürünün zaman içerisindeki değişimini karşılaştırabilme"
+          },
+          {
+            "ay": "HAZİRAN",
+            "hafta": "36. Hafta: 8-12 Haziran",
+            "konu": "Sanatın Günlük Yaşamdaki Yeri",
+            "icerik": "HB.2.6.3. Sanatın günlük yaşamdaki yerini belirleyebilme"
+          },
+          {
+            "ay": "HAZİRAN",
+            "hafta": "37. Hafta: 15-19 Haziran",
+            "konu": "Sanatın Günlük Yaşamdaki Yeri",
+            "icerik": "HB.2.6.3. Sanatın günlük yaşamdaki yerini belirleyebilme"
+          }
+        ]
+      },
+      {
+        "ad": "Matematik",
+        "plan": [
+          {
+            "ay": "EYLÜL",
+            "hafta": "1. Hafta: 8-12 Eylül",
+            "konu": "Geometrik Cisimler ve Geometrik Şekiller",
+            "icerik": "MAT.2.3.1. Günlük yaşamda kullanılan nesneleri biçimsel özelliklerine göre geometrik cisim olarak sınıflandırabilme"
+          },
+          {
+            "ay": "EYLÜL",
+            "hafta": "2. Hafta: 15-19 Eylül",
+            "konu": "Geometrik Cisimler ve Geometrik Şekiller",
+            "icerik": "MAT.2.3.2. Geometrik cisim modellerini kullanarak yapılar sentezleyebilme"
+          },
+          {
+            "ay": "EYLÜL",
+            "hafta": "3. Hafta: 22-26 Eylül",
+            "konu": "Geometrik Cisimler ve Geometrik Şekiller",
+            "icerik": "MAT.2.3.3. Geometrik şekiller kullanarak modeller sentezleyebilme"
+          },
+          {
+            "ay": "EKİM",
+            "hafta": "4. Hafta: 29 Eylül- 3 Ekim",
+            "konu": "Geometrik Cisimler ve Geometrik Şekiller",
+            "icerik": "MAT.2.3.4. Geometrik cisim ve şekillerin yön, konum veya büyüklükleri değiştiğinde bi çimsel özelliklerinin değişmediğini yorumlayabilme"
+          },
+          {
+            "ay": "EKİM",
+            "hafta": "5. Hafta: 6-10 Ekim",
+            "konu": "Geometrik Cisimler ve Geometrik Şekiller",
+            "icerik": "MAT.2.3.5. Standart olmayan sıvı ölçme araçları ile sıvı miktarını tahmin edebilme"
+          },
+          {
+            "ay": "EKİM",
+            "hafta": "6. Hafta: 13-17 Ekim",
+            "konu": "Sayılar",
+            "icerik": "MAT.2.1.1. 100’e kadar olan niceliklerin büyüklüklerini temsil etmede sayıların sembolik temsillerinden yararlanabilme"
+          },
+          {
+            "ay": "EKİM",
+            "hafta": "7. Hafta: 20-24 Ekim",
+            "konu": "Sayılar",
+            "icerik": "MAT.2.1.1. 100’e kadar olan niceliklerin büyüklüklerini temsil etmede sayıların sembolik temsillerinden yararlanabilme MAT.2.1.2. İki basamaklı sayıları çözümleyebilme"
+          },
+          {
+            "ay": "EKİM",
+            "hafta": "8.Hafta 27-31 Ekim",
+            "konu": "Sayılar",
+            "icerik": "MAT.2.1.2. İki basamaklı sayıları çözümleyebilme"
+          },
+          {
+            "ay": "KASIM",
+            "hafta": "9. Hafta: 3-7 Kasım",
+            "konu": "Sayılar",
+            "icerik": "MAT.2.1.3. 100’e kadar (100 dâhil) olan doğal sayıları karşılaştırabilme"
+          },
+          {
+            "ay": "KASIM",
+            "hafta": "10. Hafta: 17-21 Kasım",
+            "konu": "Sayılar",
+            "icerik": "MAT.2.1.3. 100’e kadar (100 dâhil) olan doğal sayıları karşılaştırabilme"
+          },
+          {
+            "ay": "KASIM",
+            "hafta": "11. Hafta: 24-28 Kasım",
+            "konu": "Sayılar",
+            "icerik": "MAT.2.1.4. İleriye ve geriye doğru ritmik sayabilme"
+          },
+          {
+            "ay": "ARALIK",
+            "hafta": "12. Hafta: 1-5 Aralık",
+            "konu": "Sayılar",
+            "icerik": "MAT.2.1.4. İleriye ve geriye doğru ritmik sayabilme"
+          },
+          {
+            "ay": "ARALIK",
+            "hafta": "13. Hafta: 8-12 Aralık",
+            "konu": "Sayılar",
+            "icerik": "MAT.2.1.5. Sayı örüntülerini çözümleyebilme"
+          },
+          {
+            "ay": "ARALIK",
+            "hafta": "14. Hafta: 15-19 Aralık",
+            "konu": "Sayılar",
+            "icerik": "MAT.2.1.6. İki basamaklı doğal sayılarla zihinden toplama işlemini gerçekleştirebilme"
+          },
+          {
+            "ay": "ARALIK",
+            "hafta": "15. Hafta: 22-26 Aralık",
+            "konu": "Sayılar",
+            "icerik": "MAT.2.1.7. Toplamı 100’ü (100 dâhil) geçmeyen doğal sayılarla toplama işlemini gerçekleştirebilme"
+          },
+          {
+            "ay": "OCAK",
+            "hafta": "17. Hafta: 5-9 Ocak",
+            "konu": "Sayılar",
+            "icerik": "MAT.2.1.7. Toplamı 100’ü (100 dâhil) geçmeyen doğal sayılarla toplama işlemini gerçekleştirebilme"
+          },
+          {
+            "ay": "OCAK",
+            "hafta": "18. Hafta: 12-16 Ocak",
+            "konu": "Sayılar",
+            "icerik": "MAT.2.1.8. 100’e kadar (100 dâhil) olan doğal sayılarla zihinden çıkarma işlemini gerçek leştirebilme"
+          },
+          {
+            "ay": "ŞUBAT",
+            "hafta": "19. Hafta: 2-6 Şubat",
+            "konu": "Sayılar",
+            "icerik": "MAT.2.1.9. 100’e kadar (100 dâhil) olan doğal sayılarla çıkarma işlemini gerçekleştirebilme"
+          },
+          {
+            "ay": "ŞUBAT",
+            "hafta": "20. Hafta: 9-13 Şubat",
+            "konu": "Sayılar",
+            "icerik": "MAT.2.1.9. 100’e kadar (100 dâhil) olan doğal sayılarla çıkarma işlemini gerçekleştirebilme"
+          },
+          {
+            "ay": "ŞUBAT",
+            "hafta": "21. Hafta: 16-20 Şubat",
+            "konu": "Sayılar",
+            "icerik": "MAT.2.1.9. 100’e kadar (100 dâhil) olan doğal sayılarla çıkarma işlemini gerçekleştirebilme"
+          },
+          {
+            "ay": "ŞUBAT",
+            "hafta": "22. Hafta: 23-27 Şubat",
+            "konu": "Sayılar",
+            "icerik": "MAT.2.1.10. Paralarımız arasındaki ilişkiyi çözümleyebilme"
+          },
+          {
+            "ay": "MART",
+            "hafta": "23. Hafta: 2-6 Mart",
+            "konu": "Sayılar",
+            "icerik": "MAT.2.1.10. Paralarımız arasındaki ilişkiyi çözümleyebilme"
+          },
+          {
+            "ay": "MART",
+            "hafta": "24. Hafta: 9-13 Mart",
+            "konu": "Sayılar",
+            "icerik": "MAT.2.1.10. Paralarımız arasındaki ilişkiyi çözümleyebilme"
+          },
+          {
+            "ay": "MART",
+            "hafta": "25. Hafta: 23-27 Mart",
+            "konu": "İşlemlerle İlgili Problemler",
+            "icerik": "MAT.2.2.1. Günlük yaşam durumları ile ilgili toplama ve çıkarma işlemlerini gerektiren problemleri çözebilme"
+          },
+          {
+            "ay": "MART",
+            "hafta": "26. Hafta: 30 Mart-3 Nisan",
+            "konu": "İşlemlerle İlgili Problemler",
+            "icerik": "MAT.2.2.1. Günlük yaşam durumları ile ilgili toplama ve çıkarma işlemlerini gerektiren problemleri çözebilme"
+          },
+          {
+            "ay": "NİSAN",
+            "hafta": "27. Hafta: 6-10 Nisan",
+            "konu": "İşlemlerle İlgili Problemler",
+            "icerik": "MAT.2.2.1. Günlük yaşam durumları ile ilgili toplama ve çıkarma işlemlerini gerektiren problemleri çözebilme"
+          },
+          {
+            "ay": "NİSAN",
+            "hafta": "28. Hafta: 13-17 Nisan",
+            "konu": "Şekil Grafiği ve Tablo",
+            "icerik": "MAT.2.4.1. Tek bir değişkene ait verileri tablo ve grafiklerle temsil edebilme"
+          },
+          {
+            "ay": "NİSAN",
+            "hafta": "29. Hafta: 20-24 Nisan",
+            "konu": "Şekil Grafiği ve Tablo",
+            "icerik": "MAT.2.4.1. Tek bir değişkene ait verileri tablo ve grafiklerle temsil edebilme"
+          },
+          {
+            "ay": "NİSAN",
+            "hafta": "30. Hafta: 27 Nisan-1 Mayıs",
+            "konu": "Şekil Grafiği ve Tablo",
+            "icerik": "MAT.2.4.2. Tek bir değişkene ait verileri içeren tablo ve grafikleri yorumlayabilme"
+          },
+          {
+            "ay": "MAYIS",
+            "hafta": "31. Hafta: 4-8 Mayıs",
+            "konu": "Şekil Grafiği ve Tablo",
+            "icerik": "MAT.2.4.2. Tek bir değişkene ait verileri içeren tablo ve grafikleri yorumlayabilme"
+          },
+          {
+            "ay": "MAYIS",
+            "hafta": "32. Hafta: 11-15 Mayıs",
+            "konu": "Uzunluk Ölçme",
+            "icerik": "MAT.2.3.6. Standart olmayan uzunluk ölçme araçları ile yapılan ölçümler arasındaki ilişkiyi yorumlayabilme"
+          },
+          {
+            "ay": "MAYIS",
+            "hafta": "33. Hafta: 18-22 Mayıs",
+            "konu": "Uzunluk Ölçme",
+            "icerik": "MAT.2.3.6. Standart olmayan uzunluk ölçme araçları ile yapılan ölçümler arasındaki ilişkiyi yorumlayabilme"
+          },
+          {
+            "ay": "MAYIS",
+            "hafta": "34. Hafta: 25-29 Mayıs",
+            "konu": "Uzunluk Ölçme",
+            "icerik": "MAT.2.3.7. Standart uzunluk ölçme araçlarını ve birimlerini tanıyabilme"
+          },
+          {
+            "ay": "HAZİRAN",
+            "hafta": "35. Hafta: 1-5 Haziran",
+            "konu": "Uzunluk Ölçme",
+            "icerik": "MAT.2.3.7. Standart uzunluk ölçme araçlarını ve birimlerini tanıyabilme"
+          },
+          {
+            "ay": "HAZİRAN",
+            "hafta": "36.Hafta: 8-12 Haziran",
+            "konu": "Kütle Ölçme",
+            "icerik": "MAT.2.3.8. Nesnelerin kütlesini standart olmayan birimler kullanarak ölçebilme"
+          },
+          {
+            "ay": "HAZİRAN",
+            "hafta": "37. Hafta: 15-19 Haziran",
+            "konu": "Kütle Ölçme",
+            "icerik": "MAT.2.3.8. Nesnelerin kütlesini standart olmayan birimler kullanarak ölçebilme"
+          }
+        ]
+      },
+      {
+        "ad": "Türkçe",
+        "plan": [
+          {
+            "ay": "EYLÜL",
+            "hafta": "1. Hafta: 08-12 Eylül",
+            "konu": "DİNLEME",
+            "icerik": "T.D.1.1. Dinleme/izlemeyi yönetebilme"
+          },
+          {
+            "ay": "EYLÜL",
+            "hafta": "2. Hafta: 15-19 Eylül",
+            "konu": "DİNLEME",
+            "icerik": "T.D.1.1. Dinleme/izlemeyi yönetebilme"
+          },
+          {
+            "ay": "EYLÜL",
+            "hafta": "3. Hafta: 22-26 Eylül",
+            "konu": "DİNLEME",
+            "icerik": "T.D.1.1. Dinleme/izlemeyi yönetebilme"
+          },
+          {
+            "ay": "EKİM",
+            "hafta": "4. Hafta: 29 Eylül- 3 Ekim",
+            "konu": "DİNLEME",
+            "icerik": "T.D.1.1. Dinleme/izlemeyi yönetebilme"
+          },
+          {
+            "ay": "EKİM",
+            "hafta": "5. Hafta: 6-10 Ekim",
+            "konu": "DİNLEME",
+            "icerik": "T.D.1.2. Dinledikleri/izledikleri ile ilgili anlam oluşturabilme"
+          },
+          {
+            "ay": "EKİM",
+            "hafta": "6. Hafta: 13-17 Ekim",
+            "konu": "DİNLEME",
+            "icerik": "T.D.1.2. Dinledikleri/izledikleri ile ilgili anlam oluşturabilme"
+          },
+          {
+            "ay": "EKİM",
+            "hafta": "7. Hafta: 20-24 Ekim",
+            "konu": "DİNLEME",
+            "icerik": "T.D.1.2. Dinledikleri/izledikleri ile ilgili anlam oluşturabilme"
+          },
+          {
+            "ay": "EKİM",
+            "hafta": "8. Hafta: 27-31 Ekim",
+            "konu": "DİNLEME",
+            "icerik": "T.D.1.2. Dinledikleri/izledikleri ile ilgili anlam oluşturabilme"
+          },
+          {
+            "ay": "KASIM",
+            "hafta": "9. Hafta: 3-7 Kasım",
+            "konu": "DİNLEME",
+            "icerik": "T.D.1.2. Dinledikleri/izledikleri ile ilgili anlam oluşturabilme"
+          },
+          {
+            "ay": "KASIM",
+            "hafta": "10. Hafta: 17-21 Kasım",
+            "konu": "DİNLEME",
+            "icerik": "T.D.1.3. Dinlediklerini/izlediklerini çözümleyebilme"
+          },
+          {
+            "ay": "KASIM",
+            "hafta": "11. Hafta: 24-28 Kasım",
+            "konu": "DİNLEME",
+            "icerik": "T.D.1.3. Dinlediklerini/izlediklerini çözümleyebilme"
+          },
+          {
+            "ay": "ARALIK",
+            "hafta": "12. Hafta: 1-5 Aralık",
+            "konu": "DİNLEME",
+            "icerik": "T.D.1.3. Dinlediklerini/izlediklerini çözümleyebilme"
+          },
+          {
+            "ay": "ARALIK",
+            "hafta": "13. Hafta: 8-12 Aralık",
+            "konu": "DİNLEME",
+            "icerik": "T.D.1.4. Dinleme/izleme sürecini değerlendirebilme"
+          },
+          {
+            "ay": "ARALIK",
+            "hafta": "14. Hafta: 15-19 Aralık",
+            "konu": "OKUMA",
+            "icerik": "T.O.1.1. Okumayı yönetebilme"
+          },
+          {
+            "ay": "ARALIK",
+            "hafta": "15. Hafta: 22-26 Aralık",
+            "konu": "OKUMA",
+            "icerik": "T.O.1.1. Okumayı yönetebilme"
+          },
+          {
+            "ay": "OCAK",
+            "hafta": "17. Hafta: 5-9 Ocak",
+            "konu": "OKUMA",
+            "icerik": "T.O.1.1. Okumayı yönetebilme"
+          },
+          {
+            "ay": "OCAK",
+            "hafta": "18. Hafta: 12-16 Ocak",
+            "konu": "OKUMA",
+            "icerik": "T.O.1.1. Okumayı yönetebilme"
+          },
+          {
+            "ay": "ŞUBAT",
+            "hafta": "19. Hafta: 2-6 Şubat",
+            "konu": "OKUMA",
+            "icerik": "T.O.1.2. Anlam oluşturabilme"
+          },
+          {
+            "ay": "ŞUBAT",
+            "hafta": "20. Hafta: 9-13 Şubat",
+            "konu": "OKUMA",
+            "icerik": "T.O.1.2. Anlam oluşturabilme"
+          },
+          {
+            "ay": "ŞUBAT",
+            "hafta": "21. Hafta: 16-20 Şubat",
+            "konu": "OKUMA",
+            "icerik": "T.O.1.2. Anlam oluşturabilme"
+          },
+          {
+            "ay": "ŞUBAT",
+            "hafta": "22. Hafta: 23-27 Şubat",
+            "konu": "OKUMA",
+            "icerik": "T.O.1.2. Anlam oluşturabilme"
+          },
+          {
+            "ay": "MART",
+            "hafta": "23. Hafta: 2-6 Mart",
+            "konu": "OKUMA",
+            "icerik": "T.O.1.2. Anlam oluşturabilme"
+          },
+          {
+            "ay": "MART",
+            "hafta": "24. Hafta: 9-13 Mart",
+            "konu": "OKUMA",
+            "icerik": "T.O.1.2. Anlam oluşturabilme"
+          },
+          {
+            "ay": "MART",
+            "hafta": "26. Hafta: 30 Mart- 3 Nisan",
+            "konu": "OKUMA",
+            "icerik": "T.O.1.2. Anlam oluşturabilme"
+          },
+          {
+            "ay": "NİSAN",
+            "hafta": "27. Hafta: 6-10 Nisan",
+            "konu": "OKUMA",
+            "icerik": "T.O.1.3. Okuduklarını çözümleyebilme"
+          },
+          {
+            "ay": "NİSAN",
+            "hafta": "28. Hafta: 13-17 Nisan",
+            "konu": "OKUMA",
+            "icerik": "T.O.1.3. Okuduklarını çözümleyebilme"
+          },
+          {
+            "ay": "NİSAN",
+            "hafta": "29. Hafta: 20-24 Nisan",
+            "konu": "OKUMA",
+            "icerik": "T.O.1.3. Okuduklarını çözümleyebilme"
+          },
+          {
+            "ay": "NİSAN",
+            "hafta": "30. Hafta: 27 Nisan-1 Mayıs",
+            "konu": "OKUMA",
+            "icerik": "T.O.1.4. Okuma sürecini değerlendirebilme"
+          },
+          {
+            "ay": "MAYIS",
+            "hafta": "31. Hafta: 4-8 Mayıs",
+            "konu": "KONUŞMA",
+            "icerik": "T.K.1.1. Konuşmayı yönetebilme"
+          },
+          {
+            "ay": "MAYIS",
+            "hafta": "32. Hafta: 11-15 Mayıs",
+            "konu": "KONUŞMA",
+            "icerik": "T.K.1.2. Anlam oluşturabilme"
+          },
+          {
+            "ay": "MAYIS",
+            "hafta": "33. Hafta: 18-22 Mayıs",
+            "konu": "KONUŞMA",
+            "icerik": "T.K.1.3. Konuştuklarını çözümleyebilme"
+          },
+          {
+            "ay": "MAYIS",
+            "hafta": "34. Hafta: 25-29 Mayıs",
+            "konu": "KONUŞMA",
+            "icerik": "T.K.1.4. Konuşma sürecini değerlendirebilme"
+          },
+          {
+            "ay": "HAZİRAN",
+            "hafta": "35.Hafta: 8-12 Haziran",
+            "konu": "YAZMA",
+            "icerik": "T.Y.1.1. Yazmayı yönetebilme"
+          },
+          {
+            "ay": "HAZİRAN",
+            "hafta": "36. Hafta: 15-19 Haziran",
+            "konu": "YAZMA",
+            "icerik": "T.Y.1.2. Anlam oluşturabilme"
+          }
+        ]
+      }
+    ]
+  }
+]
