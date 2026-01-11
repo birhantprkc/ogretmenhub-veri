@@ -1,213 +1,321 @@
 [
   {
-    "sinif": "2.SINIF",
+    "sinif": "DIGER",
     "dersler": [
       {
-        "ad": "Beden Eğitimi ve Oyun",
+        "ad": "Türkçe",
         "plan": [
           {
             "ay": "EYLÜL",
-            "hafta": "1. Hafta: 8-12 Eylül",
-            "konu": "Temel Hareket Becerileri",
-            "icerik": "BEO.2.1.1. Temel hareket becerilerini sergileyebilme"
+            "hafta": null,
+            "dersSaati": "10",
+            "unite": "HATIRLATMA HAFTASI",
+            "konu": "DİNLEME",
+            "ogrenmeCiktisi": "T.D.1.1. Dinleme/izlemeyi yönetebilme",
+            "surecBileseni": "b)Dinleyeceklerini/izleyeceklerini amacına uygun olarak seçer. c) Dinleme kurallarına uygun olarak dinler. ç) Dinleme esnasında konuşmaya dâhil olmak için uygun zamanda söz alır.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
-            "ay": "EYLÜL",
-            "hafta": "2. Hafta: 15-19 Eylül",
-            "konu": "Temel Hareket Becerileri",
-            "icerik": "BEO.2.1.1. Temel hareket becerilerini sergileyebilme"
+            "ay": null,
+            "hafta": "15 Temmuz Demokrasi ve Millî Birlik Günü",
+            "dersSaati": "10",
+            "unite": "1.TEMA: DEĞERLERİMİZLE VARIZ",
+            "konu": "DİNLEME",
+            "ogrenmeCiktisi": "T.D.2.1. Dinleme/izlemeyi yönetebilme",
+            "surecBileseni": "a) Dinleyeceklerini/izleyeceklerini amacına ve ilgi alanına uygun olarak seçer. b) Dinleme kurallarına uygun olarak dinler. c) Dinleme esnasında konuşmaya dâhil olmak için uygun zamanda söz alır.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
-            "ay": "EYLÜL",
-            "hafta": "3. Hafta: 22-26 Eylül",
-            "konu": "Temel Hareket Becerileri",
-            "icerik": "BEO.2.1.1. Temel hareket becerilerini sergileyebilme"
+            "ay": null,
+            "hafta": "İlköğretim Haftası",
+            "dersSaati": "10",
+            "unite": "1.TEMA: DEĞERLERİMİZLE VARIZ",
+            "konu": "DİNLEME",
+            "ogrenmeCiktisi": "T.D.2.1. Dinleme/izlemeyi yönetebilme",
+            "surecBileseni": "a) Dinleyeceklerini/izleyeceklerini amacına ve ilgi alanına uygun olarak seçer. b) Dinleme kurallarına uygun olarak dinler. c) Dinleme esnasında konuşmaya dâhil olmak için uygun zamanda söz alır.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
-            "ay": "EYLÜL",
-            "hafta": "4. Hafta: 29 Eylül- 3 Ekim",
-            "konu": "Temel Hareket Becerileri",
-            "icerik": "BEO.2.1.1. Temel hareket becerilerini sergileyebilme"
+            "ay": "EYLÜL-EKİM",
+            "hafta": null,
+            "dersSaati": "10",
+            "unite": "1.TEMA: DEĞERLERİMİZLE VARIZ",
+            "konu": "DİNLEME",
+            "ogrenmeCiktisi": "T.D.2.1. Dinleme/izlemeyi yönetebilme",
+            "surecBileseni": "a) Dinleyeceklerini/izleyeceklerini amacına ve ilgi alanına uygun olarak seçer. b) Dinleme kurallarına uygun olarak dinler. c) Dinleme esnasında konuşmaya dâhil olmak için uygun zamanda söz alır.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
             "ay": "EKİM",
-            "hafta": "5. Hafta: 6-10 Ekim",
-            "konu": "Temel Hareket Becerileri",
-            "icerik": "BEO.2.1.1. Temel hareket becerilerini sergileyebilme"
+            "hafta": null,
+            "dersSaati": "8+2",
+            "unite": "1. TEMA: DEĞERLERİMİZLE VARIZ 2. TEMA: ATATÜRK VE ÇOCUK",
+            "konu": "DİNLEME",
+            "ogrenmeCiktisi": "T.D.2.1. Dinleme/izlemeyi yönetebilme",
+            "surecBileseni": "a) Dinleyeceklerini/izleyeceklerini amacına ve ilgi alanına uygun olarak seçer. b) Dinleme kurallarına uygun olarak dinler. c) Dinleme esnasında konuşmaya dâhil olmak için uygun zamanda söz alır.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
-            "ay": "EKİM",
-            "hafta": "6. Hafta: 13-17 Ekim",
-            "konu": "Temel Hareket Becerileri",
-            "icerik": "BEO.2.1.1. Temel hareket becerilerini sergileyebilme"
+            "ay": "EKİM-KASIM",
+            "hafta": null,
+            "dersSaati": "6+4*",
+            "unite": "2. TEMA: ATATÜRK VE ÇOCUK",
+            "konu": "OKUL TEMELLİ PLANLAMA*",
+            "ogrenmeCiktisi": null,
+            "surecBileseni": null,
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
-            "ay": "EKİM",
-            "hafta": "7. Hafta: 20-24 Ekim",
-            "konu": "Temel Hareket Becerileri",
-            "icerik": "BEO.2.1.1. Temel hareket becerilerini sergileyebilme"
-          },
-          {
-            "ay": "EKİM",
-            "hafta": "8. Hafta 27-31 Ekim",
-            "konu": "Temel Hareket Becerileri",
-            "icerik": "BEO.2.1.1. Temel hareket becerilerini sergileyebilme"
+            "ay": null,
+            "hafta": "Cumhuriyet Bayramı (29 Ekim) Kızılay Haftası (29 Ekim-04 Kasım)",
+            "dersSaati": null,
+            "unite": null,
+            "konu": "DİNLEME",
+            "ogrenmeCiktisi": "T.D.2.1. Dinleme/izlemeyi yönetebilme",
+            "surecBileseni": "b) Dinleme kurallarına uygun olarak dinler. c) Dinleme esnasında konuşmaya dâhil olmak için uygun zamanda söz alır.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
             "ay": "KASIM",
-            "hafta": "9. Hafta: 3-7 Kasım",
-            "konu": "Oyunlarda Grupla Hareket",
-            "icerik": "BEO.2.1.2. Oyunlarda grupla hareket edebilme"
+            "hafta": "Atatürk Haftası (10-16 Kasım)",
+            "dersSaati": "10",
+            "unite": "2. TEMA: ATATÜRK VE ÇOCUK",
+            "konu": "DİNLEME",
+            "ogrenmeCiktisi": "T.D.2.1. Dinleme/izlemeyi yönetebilme",
+            "surecBileseni": "b) Dinleme kurallarına uygun olarak dinler. c) Dinleme esnasında konuşmaya dâhil olmak için uygun zamanda söz alır.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
-            "ay": "KASIM",
-            "hafta": "10. Hafta: 17-21 Kasım",
-            "konu": "Oyunlarda Grupla Hareket",
-            "icerik": "BEO.2.1.2. Oyunlarda grupla hareket edebilme"
+            "ay": null,
+            "hafta": "Dünya Çocuk Hakları Günü (20 Kasım)",
+            "dersSaati": "10",
+            "unite": "3. TEMA: DOĞADA NELER OLUYOR?",
+            "konu": "DİNLEME",
+            "ogrenmeCiktisi": "T.D.2.1. Dinleme/izlemeyi yönetebilme",
+            "surecBileseni": "b) Dinleme kurallarına uygun olarak dinler. c) Dinleme esnasında konuşmaya dâhil olmak için uygun zamanda söz alır.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
-            "ay": "KASIM",
-            "hafta": "11. Hafta: 24-28 Kasım",
-            "konu": "Oyunlarda Grupla Hareket",
-            "icerik": "BEO.2.1.2. Oyunlarda grupla hareket edebilme"
-          },
-          {
-            "ay": "ARALIK",
-            "hafta": "12. Hafta: 1-5 Aralık",
-            "konu": "Oyunlarda Grupla Hareket",
-            "icerik": "BEO.2.1.2. Oyunlarda grupla hareket edebilme"
-          },
-          {
-            "ay": "ARALIK",
-            "hafta": "13. Hafta: 8-12 Aralık",
-            "konu": "Oyunlarda Grupla Hareket",
-            "icerik": "BEO.2.1.2. Oyunlarda grupla hareket edebilme"
-          },
-          {
-            "ay": "ARALIK",
-            "hafta": "14. Hafta: 15-19 Aralık",
-            "konu": "Oyunlarda Hareket Kavramları",
-            "icerik": "BEO.2.2.1. Oyunlarda hareket kavramlarını uygulayabilme"
-          },
-          {
-            "ay": "ARALIK",
-            "hafta": "15. Hafta: 22-26 Aralık",
-            "konu": "Oyunlarda Hareket Kavramları",
-            "icerik": "BEO.2.2.1. Oyunlarda hareket kavramlarını uygulayabilme"
+            "ay": null,
+            "hafta": "Öğretmenler Günü (24 Kasım)",
+            "dersSaati": "10",
+            "unite": "3. TEMA: DOĞADA NELER OLUYOR?",
+            "konu": "DİNLEME",
+            "ogrenmeCiktisi": "T.D.2.1. Dinleme/izlemeyi yönetebilme",
+            "surecBileseni": "b) Dinleme kurallarına uygun olarak dinler. c) Dinleme esnasında konuşmaya dâhil olmak için uygun zamanda söz alır.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
             "ay": "ARALIK",
-            "hafta": "16. Hafta 29 Aralık- 2 Ocak",
-            "konu": "Oyun Kuralları",
-            "icerik": "BEO.2.2.2. Oyun kurallarını uygulayabilme"
+            "hafta": "Dünya Engelliler Günü (03 Aralık)",
+            "dersSaati": "10",
+            "unite": "3. TEMA: DOĞADA NELER OLUYOR?",
+            "konu": "DİNLEME",
+            "ogrenmeCiktisi": "T.D.2.1. Dinleme/izlemeyi yönetebilme",
+            "surecBileseni": "b) Dinleme kurallarına uygun olarak dinler. c) Dinleme esnasında konuşmaya dâhil olmak için uygun zamanda söz alır.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
+          },
+          {
+            "ay": null,
+            "hafta": "Tutum, Yatırım ve Türk Malları Haftası (12-18 Aralık)",
+            "dersSaati": "10",
+            "unite": "4. TEMA: OKUMA SERÜVENİMİZ",
+            "konu": "DİNLEME",
+            "ogrenmeCiktisi": "T.D.2.1. Dinleme/izlemeyi yönetebilme",
+            "surecBileseni": "b) Dinleme kurallarına uygun olarak dinler. c) Dinleme esnasında konuşmaya dâhil olmak için uygun zamanda söz alır.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
+          },
+          {
+            "ay": "ARALIK-OCAK",
+            "hafta": null,
+            "dersSaati": "6+4*",
+            "unite": "4. TEMA: OKUMA SERÜVENİMİZ",
+            "konu": "OKUL TEMELLİ PLANLAMA*",
+            "ogrenmeCiktisi": null,
+            "surecBileseni": null,
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
             "ay": "OCAK",
-            "hafta": "17. Hafta: 5-9 Ocak",
-            "konu": "Oyun Kuralları",
-            "icerik": "BEO.2.2.2. Oyun kurallarını uygulayabilme"
-          },
-          {
-            "ay": "OCAK",
-            "hafta": "18. Hafta: 12-16 Ocak",
-            "konu": "Oyunlarda Taktik ve Strateji",
-            "icerik": "BEO.2.2.3. Oyunlarda belirlenen taktik ve stratejiyi geliştirebilme"
-          },
-          {
-            "ay": "ŞUBAT",
-            "hafta": "19. Hafta: 2-6 Şubat",
-            "konu": "Oyunlarda Taktik ve Strateji",
-            "icerik": "BEO.2.2.3. Oyunlarda belirlenen taktik ve stratejiyi geliştirebilme"
+            "hafta": null,
+            "dersSaati": "10",
+            "unite": "4. TEMA: OKUMA SERÜVENİMİZ",
+            "konu": "DİNLEME",
+            "ogrenmeCiktisi": "T.D.2.1. Dinleme/izlemeyi yönetebilme",
+            "surecBileseni": "b) Dinleme kurallarına uygun olarak dinler. c) Dinleme esnasında konuşmaya dâhil olmak için uygun zamanda söz alır.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
             "ay": "ŞUBAT",
-            "hafta": "20. Hafta: 9-13 Şubat",
-            "konu": "Belirlenen Tempodaki Müziğe Uygun Hareket Etme",
-            "icerik": "BEO.2.3.1. Belirlenen tempodaki müziğe uygun hareket edebilme"
-          },
-          {
-            "ay": "ŞUBAT",
-            "hafta": "21. Hafta: 16-20 Şubat",
-            "konu": "Belirlenen Tempodaki Müziğe Uygun Hareket Etme",
-            "icerik": "BEO.2.3.1. Belirlenen tempodaki müziğe uygun hareket edebilme"
-          },
-          {
-            "ay": "ŞUBAT",
-            "hafta": "22. Hafta: 23-27 Şubat",
-            "konu": "Eşle veya Grupla Ritmik Hareket",
-            "icerik": "BEO.2.3.2. Eşle veya grupla ritmik hareket etme becerisini sergileyebilme"
+            "hafta": null,
+            "dersSaati": "10",
+            "unite": "HATIRLATMA HAFTASI",
+            "konu": "DİNLEME",
+            "ogrenmeCiktisi": "T.D.2.1. Dinleme/izlemeyi yönetebilme",
+            "surecBileseni": "b) Dinleme kurallarına uygun olarak dinler. c) Dinleme esnasında konuşmaya dâhil olmak için uygun zamanda söz alır.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
             "ay": "MART",
-            "hafta": "23. Hafta: 2-6 Mart",
-            "konu": "Eşle veya Grupla Ritmik Hareket",
-            "icerik": "BEO.2.3.2. Eşle veya grupla ritmik hareket etme becerisini sergileyebilme"
+            "hafta": null,
+            "dersSaati": "8+2",
+            "unite": "5. TEMA: YETENEKLERİMİZİ TANIYORUZ 6. TEMA: MUCİT ÇOCUK",
+            "konu": "DİNLEME",
+            "ogrenmeCiktisi": "T.D.2.1. Dinleme/izlemeyi yönetebilme",
+            "surecBileseni": "b) Dinleme kurallarına uygun olarak dinler. c) Dinleme esnasında konuşmaya dâhil olmak için uygun zamanda söz alır.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
-            "ay": "MART",
-            "hafta": "24. Hafta: 9-13 Mart",
-            "konu": "Eşle veya Grupla Ritmik Hareket",
-            "icerik": "BEO.2.3.2. Eşle veya grupla ritmik hareket etme becerisini sergileyebilme"
+            "ay": null,
+            "hafta": "İstiklâl Marşı’nın Kabulü ve Mehmet Akif Ersoy’u Anma Günü (12 Mart)",
+            "dersSaati": "10",
+            "unite": "6. TEMA: MUCİT ÇOCUK",
+            "konu": "DİNLEME",
+            "ogrenmeCiktisi": "T.D.2.1. Dinleme/izlemeyi yönetebilme",
+            "surecBileseni": "b) Dinleme kurallarına uygun olarak dinler. c) Dinleme esnasında konuşmaya dâhil olmak için uygun zamanda söz alır.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
-            "ay": "MART",
-            "hafta": "25. Hafta 23-27 Mart",
-            "konu": "Eşle veya Grupla Ritmik Hareket Fiziksel Aktiviteye Katılım Sırasında Vücutta Meydana Gelen Değişimler",
-            "icerik": "BEO.2.3.2. Eşle veya grupla ritmik hareket etme becerisini sergileyebilme BEO.2.4.1. Fiziksel aktivite sırasında vücudunda meydana gelen değişimleri açıklayabilme"
+            "ay": null,
+            "hafta": "Şehitler Günü (18 Mart) Orman Haftası (21-26 Mart) Türk Dünyası ve Toplulukları Haftası",
+            "dersSaati": null,
+            "unite": null,
+            "konu": "DİNLEME",
+            "ogrenmeCiktisi": "T.D.2.1. Dinleme/izlemeyi yönetebilme",
+            "surecBileseni": "b) Dinleme kurallarına uygun olarak dinler. c) Dinleme esnasında konuşmaya dâhil olmak için uygun zamanda söz alır.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
-            "ay": "MART",
-            "hafta": "26. Hafta: 30 Mart- 3 Nisan",
-            "konu": "Fiziksel Aktiviteye Katılım Sırasında Vücutta Meydana Gelen Değişimler",
-            "icerik": "BEO.2.4.1. Fiziksel aktivite sırasında vücudunda meydana gelen değişimleri açıklayabilme"
+            "ay": null,
+            "hafta": "Kütüphaneler Haftası (Mart ayının son pazartesi gününü içine alan hafta)",
+            "dersSaati": "10",
+            "unite": "6. TEMA: MUCİT ÇOCUK",
+            "konu": "DİNLEME",
+            "ogrenmeCiktisi": "T.D.2.1. Dinleme/izlemeyi yönetebilme",
+            "surecBileseni": "b) Dinleme kurallarına uygun olarak dinler. c) Dinleme esnasında konuşmaya dâhil olmak için uygun zamanda söz alır.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
             "ay": "NİSAN",
-            "hafta": "27. Hafta: 6-10 Nisan",
-            "konu": "Fiziksel Aktiviteye Katılım Sırasında Vücutta Meydana Gelen Değişimler",
-            "icerik": "BEO.2.4.1. Fiziksel aktivite sırasında vücudunda meydana gelen değişimleri açıklayabilme"
+            "hafta": null,
+            "dersSaati": "10",
+            "unite": "6. TEMA: MUCİT ÇOCUK",
+            "konu": "DİNLEME",
+            "ogrenmeCiktisi": "T.D.2.1. Dinleme/izlemeyi yönetebilme",
+            "surecBileseni": "b) Dinleme kurallarına uygun olarak dinler. c) Dinleme esnasında konuşmaya dâhil olmak için uygun zamanda söz alır.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
-            "ay": "NİSAN",
-            "hafta": "28. Hafta: 13-17 Nisan",
-            "konu": "Fiziksel Aktiviteye Katılım",
-            "icerik": "BEO.2.4.2. Kendisinin ve yakın çevresinin fiziksel aktiviteye katılımlarını karşılaştırabilme"
+            "ay": null,
+            "hafta": "Ulusal Egemenlik ve Çocuk Bayramı (23 Nisan)",
+            "dersSaati": "10",
+            "unite": "7.TEMA: KÜLTÜR HAZİNEMİZ",
+            "konu": "DİNLEME",
+            "ogrenmeCiktisi": "T.D.2.1. Dinleme/izlemeyi yönetebilme",
+            "surecBileseni": "b) Dinleme kurallarına uygun olarak dinler. c) Dinleme esnasında konuşmaya dâhil olmak için uygun zamanda söz alır.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
-            "ay": "NİSAN",
-            "hafta": "29. Hafta: 20-24 Nisan",
-            "konu": "Fiziksel Aktiviteye Katılım",
-            "icerik": "BEO.2.4.2. Kendisinin ve yakın çevresinin fiziksel aktiviteye katılımlarını karşılaştırabilme"
-          },
-          {
-            "ay": "NİSAN",
-            "hafta": "30. Hafta: 27 Nisan- 30 Nisan",
-            "konu": "Fiziksel Aktiviteye Katılım Hedefleri",
-            "icerik": "BEO.2.4.3. Fiziksel aktiviteye katılım hedefleri belirleyebilme"
-          },
-          {
-            "ay": "MAYIS",
-            "hafta": "31. Hafta: 4-8 Mayıs",
-            "konu": "Fiziksel Aktiviteye Katılım Hedefleri",
-            "icerik": "BEO.2.4.3. Fiziksel aktiviteye katılım hedefleri belirleyebilme"
-          },
-          {
-            "ay": "MAYIS",
-            "hafta": "32. Hafta: 11-15 Mayıs",
-            "konu": "Fiziksel Aktivite ve Sağlık İlişkisi",
-            "icerik": "BEO.2.4.4. Fiziksel aktivite ve sağlık arasındaki ilişkiyi açıklayabilme"
-          },
-          {
-            "ay": "MAYIS",
-            "hafta": "33. Hafta: 18-22 Mayıs",
-            "konu": "Fiziksel Aktivite ve Sağlık İlişkisi",
-            "icerik": "BEO.2.4.4. Fiziksel aktivite ve sağlık arasındaki ilişkiyi açıklayabilme"
+            "ay": null,
+            "hafta": "Atatürk'ü Anma ve Gençlik ve Spor Bayramı (19 Mayıs)",
+            "dersSaati": "10",
+            "unite": "8. TEMA: HAKLARIMIZI BİLİYORUZ",
+            "konu": "DİNLEME",
+            "ogrenmeCiktisi": "T.D.2.1. Dinleme/izlemeyi yönetebilme",
+            "surecBileseni": "b) Dinleme kurallarına uygun olarak dinler. c) Dinleme esnasında konuşmaya dâhil olmak için uygun zamanda söz alır.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
             "ay": "HAZİRAN",
-            "hafta": "34. Hafta 1-5 Haziran",
-            "konu": "Oyun ve Fiziksel Aktivitelerde Güvenli Ortam",
-            "icerik": "BEO.2.4.5. Oyun ve fiziksel aktiviteler sırasında güvenli ortam oluşturabilme"
+            "hafta": null,
+            "dersSaati": "6+4*",
+            "unite": "OKUL TEMELLİ PLANLAMA*",
+            "konu": null,
+            "ogrenmeCiktisi": null,
+            "surecBileseni": null,
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
+          },
+          {
+            "ay": "Bu yıllık plan; 19.09.2022 tarih ve 58168473 sayılı \"Millî Eğitim Bakanlığı Eğitim Öğretim Çalışmalarının Planlı Yürütülmesine İlişkin Yönerge\", 2104 sayılı Tebliğler Dergisi “İlköğretim ve Ortaöğretim Kurumlarında Atatürk İnkılap ve İlkelerinin Öğretim Esasları Yönergesi “,'' Talim ve Terbiye Kurulu’nun 23.05.2024 tarih ve 20 sayılı Kurul Kararı eki \"Türkiye Yüzyılı Maarif Modeli Öğretim Programları Ortak Metni, İlkokul Türkçe Dersi (1, 2, 3 ve 4. Sınıflar) Öğretim Programı\", \"M.E.B. 2025-2026 Eğitim ve Öğretim Yılı Çalışma Takvimi Genelgesi\" ile Talim ve Terbiye Kurulu’nun 09.05.2025 tarih ve 04 sayılı Kurul Kararı eki \"İlköğretim Kurumları (İlkokul ve Ortaokul) Haftalık Ders Çizelgesi \" esas alınarak hazırlanmıştır.",
+            "hafta": null,
+            "dersSaati": null,
+            "unite": null,
+            "konu": null,
+            "ogrenmeCiktisi": null,
+            "surecBileseni": null,
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           }
         ]
       },
@@ -216,213 +324,263 @@
         "plan": [
           {
             "ay": "EYLÜL-EKİM",
-            "hafta": "1. Hafta: 8-12 Eylül",
+            "hafta": null,
+            "dersSaati": "4",
+            "unite": null,
             "konu": "Arkadaşlık İlişkilerini Etkileyen Duygu, Düşünce ve Davranışlar",
-            "icerik": "HB.2.1.1. Arkadaşlık ilişkilerini düzenleyebilme"
+            "ogrenmeCiktisi": "HB.2.1.1. Arkadaşlık ilişkilerini düzenleyebilme",
+            "surecBileseni": "a) Arkadaşlık ilişkilerini etkileyen duygu, düşünce ve davranışları fark eder. b) Arkadaşlık ilişkilerini etkileyebilecek duygu, düşünce ve davranışlarında gerekli değişiklikleri yapar.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
-            "ay": "EYLÜL-EKİM",
-            "hafta": "2. Hafta: 15-19 Eylül",
+            "ay": null,
+            "hafta": "15 Temmuz Demokrasi ve Millî Birlik Günü",
+            "dersSaati": "4",
+            "unite": null,
             "konu": "Güçlü ve Gelişime Açık Alanlar",
-            "icerik": "HB.2.1.2. Güçlü ve gelişime açık olduğu alanlara karar verebilme"
+            "ogrenmeCiktisi": "HB.2.1.2. Güçlü ve gelişime açık olduğu alanlara karar verebilme",
+            "surecBileseni": "a) Güçlü ve gelişime açık olduğu alanlara ilişkin bilgi toplar. b) Güçlü ve gelişime açık olduğu alanlara ilişkin seçenekler oluşturur. c) Güçlü ve gelişime açık olduğu alanlara ilişkin seçenekleri değerlendirir.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
-            "ay": "EYLÜL-EKİM",
-            "hafta": "3. Hafta: 22-26 Eylül",
+            "ay": null,
+            "hafta": "İlköğretim Haftası",
+            "dersSaati": "4",
+            "unite": null,
             "konu": "Güçlü ve Gelişime Açık Alanlar",
-            "icerik": "HB.2.1.2. Güçlü ve gelişime açık olduğu alanlara karar verebilme"
-          },
-          {
-            "ay": "EYLÜL-EKİM",
-            "hafta": "4. Hafta: 29 Eylül-3 Ekim",
-            "konu": "İletişim Kuralları",
-            "icerik": "HB.2.1.3. Öğretmen ve arkadaşlarıyla etkili iletişim kurabilme"
+            "ogrenmeCiktisi": "HB.2.1.2. Güçlü ve gelişime açık olduğu alanlara karar verebilme",
+            "surecBileseni": "a) Güçlü ve gelişime açık olduğu alanlara ilişkin bilgi toplar. b) Güçlü ve gelişime açık olduğu alanlara ilişkin seçenekler oluşturur. c) Güçlü ve gelişime açık olduğu alanlara ilişkin seçenekleri değerlendirir.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
             "ay": "EKİM-KASIM",
-            "hafta": "5. Hafta: 6-10 Ekim",
+            "hafta": null,
+            "dersSaati": "4",
+            "unite": null,
             "konu": "Sınıf İçi Karar Alma Süreçleri",
-            "icerik": "HB.2.1.4. Sınıf içi karar alma süreçlerine katılım sağlayabilme"
+            "ogrenmeCiktisi": "HB.2.1.4. Sınıf içi karar alma süreçlerine katılım sağlayabilme",
+            "surecBileseni": "a) Sınıf içi karar alma süreçlerine katılır. b) Sınıf içi karar alma süreçlerine katkıda bulunur. c) Sınıf içi karar alma sürecini değerlendirir.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
-            "ay": "EKİM-KASIM",
-            "hafta": "6. Hafta: 13-17 Ekim",
-            "konu": "Sınıf İçi Karar Alma Süreçleri",
-            "icerik": "HB.2.1.4. Sınıf içi karar alma süreçlerine katılım sağlayabilme"
-          },
-          {
-            "ay": "EKİM-KASIM",
-            "hafta": "7. Hafta: 20-24 Ekim",
+            "ay": null,
+            "hafta": "Cumhuriyet Bayramı (29 Ekim) Kızılay Haftası (29 Ekim-04 Kasım)",
+            "dersSaati": "3+(1)*",
+            "unite": null,
             "konu": "Sağlıklı Büyüme ve Gelişmeyi Etkileyen Etkenler",
-            "icerik": "HB.2.2.1. Sağlıklı büyüme ve gelişme için yapması gerekenleri belirleyebilme"
+            "ogrenmeCiktisi": "HB.2.2.1. Sağlıklı büyüme ve gelişme ile alışkanlıkları arasındaki ilişkiyi çözümleyebilme",
+            "surecBileseni": "a) Sağlıklı büyüme ve gelişme için yapılması gerekenleri belirler. b) Alışkanlıklarını belirler. c) Sağlıklı büyüme ve gelişme ile alışkanlıkları arasındaki ilişkiyi belirler.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
             "ay": "KASIM",
-            "hafta": "9. Hafta: 3-7 Kasım",
+            "hafta": "Atatürk Haftası (10-16 Kasım)",
+            "dersSaati": "4",
+            "unite": null,
             "konu": "Sağlıklı Büyüme ve Gelişmeyi Etkileyen Etkenler",
-            "icerik": "HB.2.2.1. Sağlıklı büyüme ve gelişme ile alışkanlıkları arasındaki ilişkiyi çözümleyebilme"
+            "ogrenmeCiktisi": "HB.2.2.1. Sağlıklı büyüme ve gelişme ile alışkanlıkları arasındaki ilişkiyi çözümleyebilme",
+            "surecBileseni": "a) Sağlıklı büyüme ve gelişme için yapılması gerekenleri belirler. b) Alışkanlıklarını belirler. c) Sağlıklı büyüme ve gelişme ile alışkanlıkları arasındaki ilişkiyi belirler.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
-            "ay": "KASIM",
-            "hafta": "10. Hafta: 17-21 Kasım",
+            "ay": null,
+            "hafta": "Dünya Çocuk Hakları Günü (20 Kasım) Öğretmenler Günü (24 Kasım)",
+            "dersSaati": "4",
+            "unite": null,
             "konu": "Kişisel Alan Sınırlarını Koruma",
-            "icerik": "HB.2.2.2. Kişisel alanının sınırlarını koruyabilme"
-          },
-          {
-            "ay": "KASIM",
-            "hafta": "11. Hafta: 24-28 Kasım",
-            "konu": "Trafil İşaret Levhaları",
-            "icerik": "HB.2.2.3. Temel trafik işaret levhalarını tanıyabilme"
+            "ogrenmeCiktisi": "HB.2.2.2. Kişisel alanının sınırlarını koruyabilme",
+            "surecBileseni": null,
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
             "ay": "ARALIK",
-            "hafta": "12. Hafta: 1-5 Aralık",
+            "hafta": "Dünya Engelliler Günü (3 Aralık)",
+            "dersSaati": "4",
+            "unite": null,
             "konu": "Acil Durumlardaki Davranışlar",
-            "icerik": "HB.2.2.4. Acil bir durumda yetkililerle etkili iletişim kurabilme"
+            "ogrenmeCiktisi": "HB.2.2.4. Acil bir durumda yetkililerle etkili iletişim kurabilme",
+            "surecBileseni": "a) Acil bir durumu yetkililere ifade ederken dikkat edilmesi gerekenleri açıklar. b) Acil bir durumda yetkililerin yönlendirmelerini dinlerken dikkat edilmesi gerekenleri açıklar.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
-            "ay": "ARALIK",
-            "hafta": "13. Hafta: 8-12 Aralık",
+            "ay": null,
+            "hafta": "Tutum, Yatırım ve Türk Malları Haftası (12-18 Aralık)",
+            "dersSaati": "1+3",
+            "unite": null,
             "konu": "Acil Durumlardaki Davranışlar Ailenin Önemi",
-            "icerik": "HB.2.2.4. Acil bir durumda yetkililerle etkili iletişim kurabilme HB.2.3.1. Ailenin önemini yorumlayabilme"
+            "ogrenmeCiktisi": "HB.2.2.4. Acil bir durumda yetkililerle etkili iletişim kurabilme HB.2.3.1. Ailenin önemini yorumlayabilme",
+            "surecBileseni": "b) Acil bir durumda yetkililerin yönlendirmelerini dinlerken dikkat edilmesi gerekenleri açıklar. a) Ailenin önemine ilişkin verilen örnekleri inceler.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
             "ay": "ARALIK",
-            "hafta": "14. Hafta: 15-19 Aralık",
-            "konu": "Ailenin Önemi",
-            "icerik": "HB.2.3.1. Ailenin önemini yorumlayabilme"
-          },
-          {
-            "ay": "ARALIK",
-            "hafta": "15. Hafta: 23-26 Aralık",
+            "hafta": null,
+            "dersSaati": "4",
+            "unite": null,
             "konu": "Ailede Nezaket ve Görgü Kuralları",
-            "icerik": "HB.2.3.2. Toplumsal yaşamda nezaket ve görgü kurallarına uygun davranabilme"
+            "ogrenmeCiktisi": "HB.2.3.2. Toplumsal yaşamda nezaket ve görgü kurallarına uygun davranabilme",
+            "surecBileseni": null,
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
             "ay": "ARALIK-OCAK",
-            "hafta": "16. Hafta: 29 Aralık-2 Ocak",
+            "hafta": null,
+            "dersSaati": "3+(1)*",
+            "unite": null,
             "konu": "Ailedeki Görev ve Sorumluluklar",
-            "icerik": "HB.2.3.3. Yakın çevresinde üzerine düşen görev ve sorumlulukları günlük yaşamına yansıtabilme"
-          },
-          {
-            "ay": "ARALIK-OCAK",
-            "hafta": "17. Hafta: 5-9 Ocak",
-            "konu": "Ailedeki Görev ve Sorumluluklar",
-            "icerik": "HB.2.3.3. Yakın çevresinde üzerine düşen görev ve sorumlulukları günlük yaşamına yansıtabilme"
-          },
-          {
-            "ay": "ARALIK-OCAK",
-            "hafta": "18. Hafta: 12-16 Ocak",
-            "konu": "Ailedeki Görev ve Sorumluluklar Tarihî Mekânlar ve Doğal Güzellikler",
-            "icerik": "HB.2.3.3. Yakın çevresinde üzerine düşen görev ve sorumlulukları günlük yaşamına yansıtabilme HB.2.4.1. Yakın çevresinde bulunan tarihî mekân ve doğal güzellikleri belirleyebilme"
+            "ogrenmeCiktisi": "HB.2.3.3. Yakın çevresinde üzerine düşen görev ve sorumlulukları günlük yaşamına yansıtabilme",
+            "surecBileseni": "a) Yakın çevresinde üzerine düşen görev ve sorumluluklarını gözden geçirir. b) Yakın çevresinde üzerine düşen görev ve sorumluluklarına ilişkin çıkarımda bulunur.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
             "ay": "ŞUBAT",
-            "hafta": "19. Hafta: 2-6 Şubat",
+            "hafta": null,
+            "dersSaati": "4",
+            "unite": null,
             "konu": "Tarihî Mekânlar ve Doğal Güzellikler",
-            "icerik": "HB.2.4.1. Yakın çevresinde bulunan tarihî mekân ve doğal güzellikleri belirleyebilme"
-          },
-          {
-            "ay": "ŞUBAT",
-            "hafta": "20. Hafta: 9-13 Şubat",
-            "konu": "Yaşadığı Yerin Yönetim Birimleri",
-            "icerik": "HB.2.4.2. Yaşadığı yerin yönetim birimleri ile ilgili kaynaklardan bilgi toplayabilme"
-          },
-          {
-            "ay": "ŞUBAT",
-            "hafta": "21. Hafta: 16-20 Şubat",
-            "konu": "Mustafa Kemal Atatürk’ün Öğrencilik Yılları",
-            "icerik": "HB.2.4.3. Mustafa Kemal Atatürk’ün öğrencilik yıllarına ait anıları yorumlayabilme"
-          },
-          {
-            "ay": "ŞUBAT",
-            "hafta": "22. Hafta: 23-27 Şubat",
-            "konu": "Mustafa Kemal Atatürk’ün Öğrencilik Yılları Millî Gün ve Bayramların Önemi",
-            "icerik": "HB.2.4.3. Mustafa Kemal Atatürk’ün öğrencilik yıllarına ait anıları yorumlayabilme HB.2.4.4. Millî gün ve bayramların önemini yorumlayabilme"
+            "ogrenmeCiktisi": "HB.2.4.1. Yakın çevresinde bulunan tarihî mekân ve doğal güzellikleri belirleyebilme",
+            "surecBileseni": "a) Yakın çevresinde bulunan tarihî mekân ve doğal güzellikleri fark eder. b) Yakın çevresinde bulunan tarihî mekân ve doğal güzelliklerin temel özelliklerini ifade eder.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
             "ay": "MART",
-            "hafta": "23. Hafta: 2-6 Mart",
+            "hafta": null,
+            "dersSaati": "4",
+            "unite": null,
             "konu": "Millî Gün ve Bayramların Önemi",
-            "icerik": "HB.2.4.4. Millî gün ve bayramların önemini yorumlayabilme"
+            "ogrenmeCiktisi": "HB.2.4.4. Millî gün ve bayramların önemini yorumlayabilme",
+            "surecBileseni": "a) Millî gün ve bayramlara ilişkin deneyimlerini paylaşır. b) Millî gün ve bayramların önemini ifade eder.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
-            "ay": "MART",
-            "hafta": "24. Hafta: 9-13 Mart",
+            "ay": null,
+            "hafta": "İstiklâl Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü (12 Mart)",
+            "dersSaati": "4",
+            "unite": null,
             "konu": "Dinî Gün ve Bayramların Önemi",
-            "icerik": "HB.2.4.5. Dinî gün ve bayramların önemini yorumlayabilme"
+            "ogrenmeCiktisi": "HB.2.4.5. Dinî gün ve bayramların önemini yorumlayabilme",
+            "surecBileseni": "a) Dinî gün ve bayramlara ilişkin deneyimlerini paylaşır. b) Dinî gün ve bayramların önemini ifade eder.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
-            "ay": "MART",
-            "hafta": "25. Hafta: 23-27 Mart",
+            "ay": null,
+            "hafta": "Şehitler Günü (18 Mart)",
+            "dersSaati": "2+(2)*",
+            "unite": null,
             "konu": "Dinî Gün ve Bayramların Önemi",
-            "icerik": "HB.1.4.5. Dinî gün ve bayramlarda yaşadığı duyguları ifade edebilme"
+            "ogrenmeCiktisi": "HB.1.4.5. Dinî gün ve bayramlarda yaşadığı duyguları ifade edebilme",
+            "surecBileseni": null,
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
-            "ay": "MART",
-            "hafta": "26. Hafta: 30 Mart-3 Nisan",
+            "ay": null,
+            "hafta": "Orman Haftası (21-26 Mart) Kütüphaneler Haftası (Mart ayının son pazartesi gününü içine alan hafta)",
+            "dersSaati": "4",
+            "unite": null,
             "konu": "Hava Olayları ve Mevsimler",
-            "icerik": "HB.2.5.1. Hava olayları ve mevsimler arasındaki ilişkiyi çözümleyebilme"
+            "ogrenmeCiktisi": "HB.2.5.1. Hava olayları ve mevsimler arasındaki ilişkiyi çözümleyebilme",
+            "surecBileseni": "a) Hava olaylarının özelliklerini belirler. b) Mevsimlerin özelliklerini belirler. c) Hava olayları ve mevsimler arasındaki ilişkiyi belirler.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
-            "ay": "NİSAN-MAYIS",
-            "hafta": "27. Hafta: 6-10 Nisan",
-            "konu": "Hava Olayları ve Mevsimler",
-            "icerik": "HB.2.5.1. Hava olayları ve mevsimler arasındaki ilişkiyi çözümleyebilme"
-          },
-          {
-            "ay": "NİSAN-MAYIS",
-            "hafta": "28. Hafta: 13-17 Nisan",
-            "konu": "Doğadan Yararlanarak Yön Bulma",
-            "icerik": "HB.2.5.2. Doğadan yararlanarak yönünü belirleyebilme"
-          },
-          {
-            "ay": "NİSAN-MAYIS",
-            "hafta": "29. Hafta: 20-24 Nisan",
+            "ay": null,
+            "hafta": "Ulusal Egemenlik ve Çocuk Bayramı (23 Nisan)",
+            "dersSaati": "4",
+            "unite": null,
             "konu": "Afetlere Karşı Alınacak Önlemler",
-            "icerik": "HB.2.5.3. Afetlere karşı alınması gereken önlemlere ilişkin bilgi toplayabilme"
+            "ogrenmeCiktisi": "HB.2.5.3. Afetlere karşı alınması gereken önlemlere ilişkin bilgi toplayabilme",
+            "surecBileseni": "a) Afetlere karşı alınması gereken önlemlere ilişkin bilgileri bulur. b) Afetlere karşı alınması gereken önlemlere ilişkin bilgileri kaydeder.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
-            "ay": "NİSAN-MAYIS",
-            "hafta": "30. Hafta: 27 Nisan-30 Nisan",
+            "ay": null,
+            "hafta": "Emek ve Dayanışma Günü (1 Mayıs)",
+            "dersSaati": "4",
+            "unite": null,
             "konu": "Afetlere Karşı Alınacak Önlemler",
-            "icerik": "HB.2.5.3. Afetlere karşı alınması gereken önlemlere ilişkin bilgi toplayabilme"
+            "ogrenmeCiktisi": "HB.2.5.3. Afetlere karşı alınması gereken önlemlere ilişkin bilgi toplayabilme",
+            "surecBileseni": "a) Afetlere karşı alınması gereken önlemlere ilişkin bilgileri bulur. b) Afetlere karşı alınması gereken önlemlere ilişkin bilgileri kaydeder.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
-            "ay": "MAYIS",
-            "hafta": "31. Hafta: 4-8 Mayıs",
-            "konu": "Kaynakları Tasarruflu Kullanma",
-            "icerik": "HB.2.5.4. Kaynakları tasarruflu kullanmanın önemini değerlendirebilme"
-          },
-          {
-            "ay": "MAYIS",
-            "hafta": "32. Hafta: 11-15 Mayıs",
+            "ay": null,
+            "hafta": "Atatürk'ü Anma ve Gençlik ve Spor Bayramı (19 Mayıs)",
+            "dersSaati": "4",
+            "unite": null,
             "konu": "Bilim İnsanlarının Bilime Katkıları",
-            "icerik": "HB.2.6.1. Bilim insanlarının bilime katkılarına yönelik verilen kaynaklardan bilgi toplayabilme"
-          },
-          {
-            "ay": "MAYIS",
-            "hafta": "33. Hafta: 18-22 Mayıs",
-            "konu": "Bilim İnsanlarının Bilime Katkıları",
-            "icerik": "HB.2.6.1. Bilim insanlarının bilime katkılarına yönelik verilen kaynaklardan bilgi toplayabilme"
-          },
-          {
-            "ay": "MAYIS",
-            "hafta": "34. Hafta: 25-29 Mayıs",
-            "konu": "Teknolojik Ürünlerin Zaman İçerisindeki Değişimi",
-            "icerik": "HB.2.6.2. Günlük yaşamda kullanılan teknolojik bir ürünün zaman içerisindeki değişimini karşılaştırabilme"
+            "ogrenmeCiktisi": "HB.2.6.1. Bilim insanlarının bilime katkılarına yönelik verilen kaynaklardan bilgi toplayabilme",
+            "surecBileseni": "a) Bilim insanlarının bilime katkılarına yönelik bilgileri bulur. b) Bilim insanlarının bilime katkılarına yönelik bilgileri kaydeder.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
             "ay": "HAZİRAN",
-            "hafta": "36. Hafta: 8-12 Haziran",
-            "konu": "Sanatın Günlük Yaşamdaki Yeri",
-            "icerik": "HB.2.6.3. Sanatın günlük yaşamdaki yerini belirleyebilme"
-          },
-          {
-            "ay": "HAZİRAN",
-            "hafta": "37. Hafta: 15-19 Haziran",
-            "konu": "Sanatın Günlük Yaşamdaki Yeri",
-            "icerik": "HB.2.6.3. Sanatın günlük yaşamdaki yerini belirleyebilme"
+            "hafta": null,
+            "dersSaati": "OKUL TEMELLİ PLANLAMA*",
+            "unite": null,
+            "konu": null,
+            "ogrenmeCiktisi": null,
+            "surecBileseni": null,
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           }
         ]
       },
@@ -431,428 +589,580 @@
         "plan": [
           {
             "ay": "EYLÜL",
-            "hafta": "1. Hafta: 8-12 Eylül",
+            "hafta": null,
+            "dersSaati": "5",
+            "unite": "NESNELERİN GEOMETRİSİ (1)",
             "konu": "Geometrik Cisimler ve Geometrik Şekiller",
-            "icerik": "MAT.2.3.1. Günlük yaşamda kullanılan nesneleri biçimsel özelliklerine göre geometrik cisim olarak sınıflandırabilme"
+            "ogrenmeCiktisi": "MAT.2.3.1. Günlük yaşamda kullanılan nesneleri biçimsel özelliklerine göre geometrik cisim olarak sınıflandırabilme",
+            "surecBileseni": "a) Günlük yaşamda kullanılan nesnelerin biçimsel özelliklerini belirler. b) Farklı nesneleri biçimsel özelliklerine göre ayırır. c) Nesneleri geometrik cisim olarak tasnif eder. ç) Geometrik cisimleri adlandırır.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
-            "ay": "EYLÜL",
-            "hafta": "2. Hafta: 15-19 Eylül",
+            "ay": null,
+            "hafta": "15 Temmuz Demokrasi ve Millî Birlik Günü",
+            "dersSaati": "5",
+            "unite": "NESNELERİN GEOMETRİSİ (1)",
             "konu": "Geometrik Cisimler ve Geometrik Şekiller",
-            "icerik": "MAT.2.3.2. Geometrik cisim modellerini kullanarak yapılar sentezleyebilme"
+            "ogrenmeCiktisi": "MAT.2.3.2. Geometrik cisim modellerini kullanarak yapılar sentezleyebilme",
+            "surecBileseni": "a) Geometrik yapılardaki geometrik cisimleri belirler. b) Geometrik cisimler arasında ilişki kurar. c) Geometrik cisimleri birleştirerek özgün bir yapı oluşturur.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
-            "ay": "EYLÜL",
-            "hafta": "3. Hafta: 22-26 Eylül",
+            "ay": null,
+            "hafta": "İlköğretim Haftası",
+            "dersSaati": "5",
+            "unite": "NESNELERİN GEOMETRİSİ (1)",
             "konu": "Geometrik Cisimler ve Geometrik Şekiller",
-            "icerik": "MAT.2.3.3. Geometrik şekiller kullanarak modeller sentezleyebilme"
+            "ogrenmeCiktisi": "MAT.2.3.3. Geometrik şekiller kullanarak modeller sentezleyebilme",
+            "surecBileseni": "a) Geometrik yapılardaki geometrik şekilleri belirler. b) Geometrik şekiller arasında ilişki kurar. c) Geometrik şekilleri birleştirerek özgün model oluşturur.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
             "ay": "EKİM",
-            "hafta": "4. Hafta: 29 Eylül- 3 Ekim",
+            "hafta": null,
+            "dersSaati": "5",
+            "unite": "NESNELERİN GEOMETRİSİ (1)",
             "konu": "Geometrik Cisimler ve Geometrik Şekiller",
-            "icerik": "MAT.2.3.4. Geometrik cisim ve şekillerin yön, konum veya büyüklükleri değiştiğinde bi çimsel özelliklerinin değişmediğini yorumlayabilme"
-          },
-          {
-            "ay": "EKİM",
-            "hafta": "5. Hafta: 6-10 Ekim",
-            "konu": "Geometrik Cisimler ve Geometrik Şekiller",
-            "icerik": "MAT.2.3.5. Standart olmayan sıvı ölçme araçları ile sıvı miktarını tahmin edebilme"
-          },
-          {
-            "ay": "EKİM",
-            "hafta": "6. Hafta: 13-17 Ekim",
-            "konu": "Sayılar",
-            "icerik": "MAT.2.1.1. 100’e kadar olan niceliklerin büyüklüklerini temsil etmede sayıların sembolik temsillerinden yararlanabilme"
-          },
-          {
-            "ay": "EKİM",
-            "hafta": "7. Hafta: 20-24 Ekim",
-            "konu": "Sayılar",
-            "icerik": "MAT.2.1.1. 100’e kadar olan niceliklerin büyüklüklerini temsil etmede sayıların sembolik temsillerinden yararlanabilme MAT.2.1.2. İki basamaklı sayıları çözümleyebilme"
-          },
-          {
-            "ay": "EKİM",
-            "hafta": "8.Hafta 27-31 Ekim",
-            "konu": "Sayılar",
-            "icerik": "MAT.2.1.2. İki basamaklı sayıları çözümleyebilme"
+            "ogrenmeCiktisi": "MAT.2.3.4. Geometrik cisim ve şekillerin yön, konum veya büyüklükleri değiştiğinde bi çimsel özelliklerinin değişmediğini yorumlayabilme",
+            "surecBileseni": "a) Geometrik cisim ve şekillerin mevcut yön, konum veya büyüklüklerini inceler. b) Geometrik cisim ve şekillerin mevcut yön, konum veya büyüklüklerini biçim sel özelliklerinden kopmadan farklı büyüklüklere veya farklı yönlere dönüş türerek gösterir. c) Geometrik cisim ve şekillerin yön, konum veya büyüklükleri değişsede geo metrik cisim ve şekil olarak aynı kaldığını ifade eder.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
             "ay": "KASIM",
-            "hafta": "9. Hafta: 3-7 Kasım",
+            "hafta": "Atatürk Haftası",
+            "dersSaati": "5",
+            "unite": "SAYILAR VE NİCELİKLER (1)",
             "konu": "Sayılar",
-            "icerik": "MAT.2.1.3. 100’e kadar (100 dâhil) olan doğal sayıları karşılaştırabilme"
+            "ogrenmeCiktisi": "MAT.2.1.3. Sayıların sırasını belirleyebilme",
+            "surecBileseni": null,
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
+          },
+          {
+            "ay": "1. DÖNEM ARA TATİLİ: 10- 14 Kasım 2025",
+            "hafta": null,
+            "dersSaati": null,
+            "unite": null,
+            "konu": null,
+            "ogrenmeCiktisi": null,
+            "surecBileseni": null,
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
             "ay": "KASIM",
-            "hafta": "10. Hafta: 17-21 Kasım",
+            "hafta": "Afet Eğitimi Hazırlık Günü (12 Kasım)",
+            "dersSaati": "2+3",
+            "unite": "SAYILAR VE NİCELİKLER (1)",
             "konu": "Sayılar",
-            "icerik": "MAT.2.1.3. 100’e kadar (100 dâhil) olan doğal sayıları karşılaştırabilme"
+            "ogrenmeCiktisi": "MAT.2.1.3. Sayıların sırasını belirleyebilme MAT.2.1.4. İleriye ve geriye doğru ritmik sayabilme",
+            "surecBileseni": "a) Yüzlük tablo üzerinde ileriye ve geriye doğru ritmik saymaya ilişkin gözlem yapar. b) 20 içinde ikişer, 30 içinde üçer, 40 içinde dörder, 100 içinde beşer ileriye ve geriye doğru ritmik sayarken örüntü bulur. c) İleriye ve geriye doğru ritmik sayarken bulduğu örüntüyü geneller.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
-            "ay": "KASIM",
-            "hafta": "11. Hafta: 24-28 Kasım",
+            "ay": null,
+            "hafta": "20 Kasım Dünya Çocuk Hakları Günü 24 Kasım Öğretmenler Günü",
+            "dersSaati": "5",
+            "unite": "SAYILAR VE NİCELİKLER (1)",
             "konu": "Sayılar",
-            "icerik": "MAT.2.1.4. İleriye ve geriye doğru ritmik sayabilme"
-          },
-          {
-            "ay": "ARALIK",
-            "hafta": "12. Hafta: 1-5 Aralık",
-            "konu": "Sayılar",
-            "icerik": "MAT.2.1.4. İleriye ve geriye doğru ritmik sayabilme"
-          },
-          {
-            "ay": "ARALIK",
-            "hafta": "13. Hafta: 8-12 Aralık",
-            "konu": "Sayılar",
-            "icerik": "MAT.2.1.5. Sayı örüntülerini çözümleyebilme"
-          },
-          {
-            "ay": "ARALIK",
-            "hafta": "14. Hafta: 15-19 Aralık",
-            "konu": "Sayılar",
-            "icerik": "MAT.2.1.6. İki basamaklı doğal sayılarla zihinden toplama işlemini gerçekleştirebilme"
+            "ogrenmeCiktisi": "MAT.2.1.4. İleriye ve geriye doğru ritmik sayabilme",
+            "surecBileseni": "a) Yüzlük tablo üzerinde ileriye ve geriye doğru ritmik saymaya ilişkin gözlem yapar. b) 20 içinde ikişer, 30 içinde üçer, 40 içinde dörder, 100 içinde beşer ileriye ve geriye doğru ritmik sayarken örüntü bulur. c) İleriye ve geriye doğru ritmik sayarken bulduğu örüntüyü geneller.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
             "ay": "ARALIK",
-            "hafta": "15. Hafta: 22-26 Aralık",
+            "hafta": "3 Aralık Dünya Engelliler Günü",
+            "dersSaati": "5",
+            "unite": "SAYILAR VE NİCELİKLER (1)",
             "konu": "Sayılar",
-            "icerik": "MAT.2.1.7. Toplamı 100’ü (100 dâhil) geçmeyen doğal sayılarla toplama işlemini gerçekleştirebilme"
+            "ogrenmeCiktisi": "MAT.2.1.5. Sayı ve sayı temsiline dönüşen şekil örüntülerine dayalı çıkarım yapabilme",
+            "surecBileseni": "a) Örüntüde kullanılan sayılar ve sayı temsiline dönüşen şekiller arasındaki iliş kiye yönelik varsayımda bulunur. e) Belirlediği varsayıma göre sayı ve sayı temsiline dönüşen şekil örüntülerini örnekler üzerinde listeler. f) Gösterilen örüntünün, varsayımı karşılayıp karşılamadığını örneklerle sınar. ç) Karşılaştırılan sayı ve sayı temsiline dönüşen şekil örüntülerinin kuralını sözlü olarak ifade eder. d) Gösterilen örüntü ile ilgili değerlendirmede bulunur.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
+          },
+          {
+            "ay": null,
+            "hafta": "İnsan Hakları ve Demokrasi Haftası (10 Aralık gününü içine alan hafta)",
+            "dersSaati": "5",
+            "unite": "SAYILAR VE NİCELİKLER (1)",
+            "konu": null,
+            "ogrenmeCiktisi": "MAT.2.1.5. Sayı ve sayı temsiline dönüşen şekil örüntülerine dayalı çıkarım yapabilme MAT.2.1.6. Bir çokluktaki ilişkilerden yararlanarak 50’ye kadar olan nesnelerin sayısını tahmin edebilme",
+            "surecBileseni": "a) Örüntüde kullanılan sayılar ve sayı temsiline dönüşen şekiller arasındaki iliş kiye yönelik varsayımda bulunur. e) Belirlediği varsayıma göre sayı ve sayı temsiline dönüşen şekil örüntülerini örnekler üzerinde listeler. f) Gösterilen örüntünün, varsayımı karşılayıp karşılamadığını örneklerle sınar. ç) Karşılaştırılan sayı ve sayı temsiline dönüşen şekil örüntülerinin kuralını sözlü olarak ifade eder. d) Gösterilen örüntü ile ilgili değerlendirmede bulunur. a) Bir çokluktaki parça-bütün ve dağılım ilişkisini gözlem ve deneyimleri ile iliş kilendirir. b) Bir çokluğun büyüklüğünü stratejiye dayanarak tahmin eder. c) Tahmini ile gerçek sonucu karşılaştırarak tahmininin doğruluğuna yönelik bir yargıda bulunur.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
             "ay": "OCAK",
-            "hafta": "17. Hafta: 5-9 Ocak",
-            "konu": "Sayılar",
-            "icerik": "MAT.2.1.7. Toplamı 100’ü (100 dâhil) geçmeyen doğal sayılarla toplama işlemini gerçekleştirebilme"
+            "hafta": null,
+            "dersSaati": "OKUL TEMELLİ PLANLAMA*",
+            "unite": null,
+            "konu": null,
+            "ogrenmeCiktisi": null,
+            "surecBileseni": null,
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
-            "ay": "OCAK",
-            "hafta": "18. Hafta: 12-16 Ocak",
-            "konu": "Sayılar",
-            "icerik": "MAT.2.1.8. 100’e kadar (100 dâhil) olan doğal sayılarla zihinden çıkarma işlemini gerçek leştirebilme"
+            "ay": null,
+            "hafta": "Enerji Tasarrufu Haftası (Ocak Ayının 2. Haftası)",
+            "dersSaati": "5",
+            "unite": "İŞLEMLERDEN CEBİRSEL DÜŞÜNMEYE",
+            "konu": "Toplama ve Çıkarma İşlemi, Çarpma ve Bölme İşlemi, Eşitlik",
+            "ogrenmeCiktisi": "MAT.2.2.2. Toplama ve çıkarma işlemlerinin sonuçlarını tahminde bulunarak ve zihinden işlem yaparak muhakeme edebilme",
+            "surecBileseni": "a) Toplama ve çıkarma işlemlerine ilişkin ögeleri belirler. b) Toplama ve çıkarma işlemlerine ilişkin öğeler arasındaki ilişkileri belirler. c) Toplama ve çıkarma işlemine yönelik tahmin ve zihinden işlem sonuçları ara sında ilişki kurar. ç) Tahmin ve zihinden işlem sonuçlarının tutarlılığını ifade eder.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
+          },
+          {
+            "ay": "YARIYIL TATİLİ: 19 Ocak - 30 Ocak 2026",
+            "hafta": null,
+            "dersSaati": null,
+            "unite": null,
+            "konu": null,
+            "ogrenmeCiktisi": null,
+            "surecBileseni": null,
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
             "ay": "ŞUBAT",
-            "hafta": "19. Hafta: 2-6 Şubat",
-            "konu": "Sayılar",
-            "icerik": "MAT.2.1.9. 100’e kadar (100 dâhil) olan doğal sayılarla çıkarma işlemini gerçekleştirebilme"
-          },
-          {
-            "ay": "ŞUBAT",
-            "hafta": "20. Hafta: 9-13 Şubat",
-            "konu": "Sayılar",
-            "icerik": "MAT.2.1.9. 100’e kadar (100 dâhil) olan doğal sayılarla çıkarma işlemini gerçekleştirebilme"
-          },
-          {
-            "ay": "ŞUBAT",
-            "hafta": "21. Hafta: 16-20 Şubat",
-            "konu": "Sayılar",
-            "icerik": "MAT.2.1.9. 100’e kadar (100 dâhil) olan doğal sayılarla çıkarma işlemini gerçekleştirebilme"
-          },
-          {
-            "ay": "ŞUBAT",
-            "hafta": "22. Hafta: 23-27 Şubat",
-            "konu": "Sayılar",
-            "icerik": "MAT.2.1.10. Paralarımız arasındaki ilişkiyi çözümleyebilme"
+            "hafta": null,
+            "dersSaati": "5",
+            "unite": "İŞLEMLERDEN CEBİRSEL DÜŞÜNMEYE",
+            "konu": "Toplama ve Çıkarma İşlemi, Çarpma ve Bölme İşlemi, Eşitlik",
+            "ogrenmeCiktisi": "MAT.2.2.3. Toplama ve çıkarma işlemlerinin ilişkisini yorumlayabilme",
+            "surecBileseni": "a) Toplama ve çıkarma işlemlerinin ilişkisini inceler. b) Toplama ve çıkarma işlemlerini tersine dönüştürür. c) Toplama ve çıkarma işlemlerinin ilişkisini yeniden ifade eder.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
             "ay": "MART",
-            "hafta": "23. Hafta: 2-6 Mart",
-            "konu": "Sayılar",
-            "icerik": "MAT.2.1.10. Paralarımız arasındaki ilişkiyi çözümleyebilme"
+            "hafta": "Yeşilay Haftası (1 Mart gününü içine alan hafta)",
+            "dersSaati": "5",
+            "unite": "İŞLEMLERDEN CEBİRSEL DÜŞÜNMEYE",
+            "konu": "Toplama ve Çıkarma İşlemi, Çarpma ve Bölme İşlemi, Eşitlik",
+            "ogrenmeCiktisi": "MAT.2.2.5. Çarpma ve bölme işlemlerinin sonuçlarını muhakeme edebilme",
+            "surecBileseni": "a) Çarpma ve bölme işlemlerine ilişkin bileşenleri belirler. b) Çarpma ve bölme işlemlerine ilişkin bileşenler arasındaki ilişkileri belirler. c) Çarpma ve bölme işlemine yönelik tahmin ve zihinden işlem sonuçlarını ifade eder. ç) Tahmin ve zihinden işlem sonuçlarını açıklar.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
-            "ay": "MART",
-            "hafta": "24. Hafta: 9-13 Mart",
-            "konu": "Sayılar",
-            "icerik": "MAT.2.1.10. Paralarımız arasındaki ilişkiyi çözümleyebilme"
+            "ay": null,
+            "hafta": "İstiklâl Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü (12 Mart) Bilim ve Teknoloji Haftası (8-14 Mart)",
+            "dersSaati": "5",
+            "unite": "İŞLEMLERDEN CEBİRSEL DÜŞÜNMEYE",
+            "konu": "Toplama ve Çıkarma İşlemi, Çarpma ve Bölme İşlemi, Eşitlik",
+            "ogrenmeCiktisi": "MAT.2.2.6. Dört işlem bağlamında eşitliğin farklı anlamlarını yorumlayabilme",
+            "surecBileseni": "a) Dört işlemde eşitliği farklı anlamlarına göre inceler. b) Dört işlem bağlamında aynı sonucu veren durumları eşitliğin anlamını kulla narak farklı sayılarla ifade eder. c) Eşitliğin anlamlarını dört işlem bağlamında ifade eder.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
-            "ay": "MART",
-            "hafta": "25. Hafta: 23-27 Mart",
-            "konu": "İşlemlerle İlgili Problemler",
-            "icerik": "MAT.2.2.1. Günlük yaşam durumları ile ilgili toplama ve çıkarma işlemlerini gerektiren problemleri çözebilme"
-          },
-          {
-            "ay": "MART",
-            "hafta": "26. Hafta: 30 Mart-3 Nisan",
-            "konu": "İşlemlerle İlgili Problemler",
-            "icerik": "MAT.2.2.1. Günlük yaşam durumları ile ilgili toplama ve çıkarma işlemlerini gerektiren problemleri çözebilme"
-          },
-          {
-            "ay": "NİSAN",
-            "hafta": "27. Hafta: 6-10 Nisan",
-            "konu": "İşlemlerle İlgili Problemler",
-            "icerik": "MAT.2.2.1. Günlük yaşam durumları ile ilgili toplama ve çıkarma işlemlerini gerektiren problemleri çözebilme"
-          },
-          {
-            "ay": "NİSAN",
-            "hafta": "28. Hafta: 13-17 Nisan",
-            "konu": "Şekil Grafiği ve Tablo",
-            "icerik": "MAT.2.4.1. Tek bir değişkene ait verileri tablo ve grafiklerle temsil edebilme"
-          },
-          {
-            "ay": "NİSAN",
-            "hafta": "29. Hafta: 20-24 Nisan",
-            "konu": "Şekil Grafiği ve Tablo",
-            "icerik": "MAT.2.4.1. Tek bir değişkene ait verileri tablo ve grafiklerle temsil edebilme"
+            "ay": null,
+            "hafta": "Şehitler Günü (18 Mart) Dünya Su Günü (22 Mart) Orman Haftası",
+            "dersSaati": "3+(2)*",
+            "unite": "İŞLEMLERDEN CEBİRSEL DÜŞÜNMEYE",
+            "konu": "Toplama ve Çıkarma İşlemi, Çarpma ve Bölme İşlemi, Eşitlik",
+            "ogrenmeCiktisi": "MAT.2.2.6. Dört işlem bağlamında eşitliğin farklı anlamlarını yorumlayabilme",
+            "surecBileseni": "a) Dört işlemde eşitliği farklı anlamlarına göre inceler. b) Dört işlem bağlamında aynı sonucu veren durumları eşitliğin anlamını kulla narak farklı sayılarla ifade eder. c) Eşitliğin anlamlarını dört işlem bağlamında ifade eder.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
             "ay": "NİSAN",
-            "hafta": "30. Hafta: 27 Nisan-1 Mayıs",
-            "konu": "Şekil Grafiği ve Tablo",
-            "icerik": "MAT.2.4.2. Tek bir değişkene ait verileri içeren tablo ve grafikleri yorumlayabilme"
+            "hafta": "Kütüphaneler Haftası",
+            "dersSaati": "2+3",
+            "unite": "İŞLEMLERDEN CEBİRSEL DÜŞÜNMEYE SAYILAR VE NİCELİKLER (2)",
+            "konu": "Toplama ve Çıkarma İşlemi, Çarpma ve Bölme İşlemi, Eşitlik Sayılar (Kesirler), Nicelikler (Paralar, Zaman, Uzunluk-Kütle Ölçme)",
+            "ogrenmeCiktisi": "MAT.2.2.6. Dört işlem bağlamında eşitliğin farklı anlamlarını yorumlayabilme MAT.2.1.7. Bütün, yarım ve çeyrek arasındaki ilişkiyi çözümleyebilme",
+            "surecBileseni": "a) Dört işlemde eşitliği farklı anlamlarına göre inceler. b) Dört işlem bağlamında aynı sonucu veren durumları eşitliğin anlamını kulla narak farklı sayılarla ifade eder. c) Eşitliğin anlamlarını dört işlem bağlamında ifade eder. a) Bir bütünün yarım ve çeyrek parçalarını belirler. b) Bütün, yarım ve çeyrek arasındaki ilişkileri belirler.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
-            "ay": "MAYIS",
-            "hafta": "31. Hafta: 4-8 Mayıs",
-            "konu": "Şekil Grafiği ve Tablo",
-            "icerik": "MAT.2.4.2. Tek bir değişkene ait verileri içeren tablo ve grafikleri yorumlayabilme"
+            "ay": null,
+            "hafta": "23 Nisan Ulusal Egemenlik Çocuk Bayramı",
+            "dersSaati": "5",
+            "unite": "SAYILAR VE NİCELİKLER (2)",
+            "konu": "Sayılar (Kesirler), Nicelikler (Paralar, Zaman, Uzunluk-Kütle Ölçme",
+            "ogrenmeCiktisi": "MAT.2.1.9. Zaman ölçü birimlerini okuyabilme ve yazabilme",
+            "surecBileseni": null,
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
-            "ay": "MAYIS",
-            "hafta": "32. Hafta: 11-15 Mayıs",
-            "konu": "Uzunluk Ölçme",
-            "icerik": "MAT.2.3.6. Standart olmayan uzunluk ölçme araçları ile yapılan ölçümler arasındaki ilişkiyi yorumlayabilme"
-          },
-          {
-            "ay": "MAYIS",
-            "hafta": "33. Hafta: 18-22 Mayıs",
-            "konu": "Uzunluk Ölçme",
-            "icerik": "MAT.2.3.6. Standart olmayan uzunluk ölçme araçları ile yapılan ölçümler arasındaki ilişkiyi yorumlayabilme"
-          },
-          {
-            "ay": "MAYIS",
-            "hafta": "34. Hafta: 25-29 Mayıs",
-            "konu": "Uzunluk Ölçme",
-            "icerik": "MAT.2.3.7. Standart uzunluk ölçme araçlarını ve birimlerini tanıyabilme"
+            "ay": null,
+            "hafta": "19 Mayıs Atatürk'ü Anma ve Gençlik ve Spor Bayramı Müzeler Haftası (18-24 Mayıs)",
+            "dersSaati": "3+2",
+            "unite": "NESNELERİN GEOMETRİSİ (2)",
+            "konu": "Uzamsal İlişkiler",
+            "ogrenmeCiktisi": "MAT.2.3.6. Mesafe ve yönleri içerecek şekilde hedefe ulaşmak için uygun stratejilere karar verebilme MAT.2.3.7. Verilen şekiller arasından simetrik olanları ayırt edebilme",
+            "surecBileseni": "a) Hedefe ulaşmak için ölçüt belirler. b) Belirlediği ölçüte uygun bilgileri toplar. c) Topladığı bilgilerden ölçüte yönelik seçenekler oluşturur. ç) Oluşturduğu seçenekler üzerinde mantıksal denetleme yapar. d) Seçenekler arasından ölçüte uygun seçim yapar. e) Ölçüt değişikliği durumunu sürece yansıtır.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
             "ay": "HAZİRAN",
-            "hafta": "35. Hafta: 1-5 Haziran",
-            "konu": "Uzunluk Ölçme",
-            "icerik": "MAT.2.3.7. Standart uzunluk ölçme araçlarını ve birimlerini tanıyabilme"
+            "hafta": null,
+            "dersSaati": "OKUL TEMELLİ PLANLAMA*",
+            "unite": null,
+            "konu": null,
+            "ogrenmeCiktisi": null,
+            "surecBileseni": null,
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
-            "ay": "HAZİRAN",
-            "hafta": "36.Hafta: 8-12 Haziran",
-            "konu": "Kütle Ölçme",
-            "icerik": "MAT.2.3.8. Nesnelerin kütlesini standart olmayan birimler kullanarak ölçebilme"
+            "ay": null,
+            "hafta": "Çevre ve İklim Değişikliği Haftası (Haziran ayının ikinci haftası)",
+            "dersSaati": "5",
+            "unite": "VERİYE DAYALI ARAŞTIRMA",
+            "konu": "Kategorik Veri",
+            "ogrenmeCiktisi": "MAT.2.4.1. Kategorik veriye dayalı en çok iki veri grubu ile çalışabilme ve veriye dayalı karar verebilme",
+            "surecBileseni": "a) Kategorik veriye dayalı istatistiksel araştırma gerektiren günlük yaşam durumu belirler. b) Kategorik veriye dayalı betimleme veya karşılaştırma gerektirebilecek araştırma soruları oluşturur. c) Kategorik verileri toplamak için plan yapar. ç) Kategorik verileri toplar. d) Toplanan verileri analiz etmek için görselleştirme araçlarından çetele tablosu, sıklık tablosu ve şekil grafiğini seçer. e) Seçtiği araçlarla verileri görselleştirerek analiz eder. f) Araştırma sonuçlarını yorumlar. g) Araştırma sonuçlarını araştırma sorularına göre değerlendirir.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
-            "ay": "HAZİRAN",
-            "hafta": "37. Hafta: 15-19 Haziran",
-            "konu": "Kütle Ölçme",
-            "icerik": "MAT.2.3.8. Nesnelerin kütlesini standart olmayan birimler kullanarak ölçebilme"
+            "ay": null,
+            "hafta": "30 Ağustos Zafer Bayramı",
+            "dersSaati": "5",
+            "unite": "VERİYE DAYALI ARAŞTIRMA",
+            "konu": "Kategorik Veri",
+            "ogrenmeCiktisi": "MAT.2.4.1. Kategorik veriye dayalı en çok iki veri grubu ile çalışabilme ve veriye dayalı karar verebilme",
+            "surecBileseni": "a) Kategorik veriye dayalı istatistiksel araştırma gerektiren günlük yaşam durumu belirler. b) Kategorik veriye dayalı betimleme veya karşılaştırma gerektirebilecek araştırma soruları oluşturur. c) Kategorik verileri toplamak için plan yapar. ç) Kategorik verileri toplar. d) Toplanan verileri analiz etmek için görselleştirme araçlarından çetele tablosu, sıklık tablosu ve şekil grafiğini seçer. e) Seçtiği araçlarla verileri görselleştirerek analiz eder. f) Araştırma sonuçlarını yorumlar. g) Araştırma sonuçlarını araştırma sorularına göre değerlendirir.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           }
         ]
       },
       {
-        "ad": "Türkçe",
+        "ad": "Beden Eğitimi ve Spor",
         "plan": [
           {
-            "ay": "EYLÜL",
-            "hafta": "1. Hafta: 08-12 Eylül",
-            "konu": "DİNLEME",
-            "icerik": "T.D.1.1. Dinleme/izlemeyi yönetebilme"
+            "ay": null,
+            "hafta": "Zafer Bayramı (30 Ağustos)",
+            "dersSaati": "5",
+            "unite": "HAREKETİMİ GELİŞTİRİYORUM",
+            "konu": "Temel Hareket Becerileri",
+            "ogrenmeCiktisi": "BEO.2.1.1. Temel hareket becerilerini sergileyebilme",
+            "surecBileseni": "a) Yer değiştirme, nesne kontrolü ve denge becerileri arasındaki farkları algılar. b) Yer değiştirme, nesne kontrolü ve denge becerilerinin basamaklarını gösterir. c) Yer değiştirme, nesne kontrolü ve denge becerilerini farklı durumlarda uygular.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
-            "ay": "EYLÜL",
-            "hafta": "2. Hafta: 15-19 Eylül",
-            "konu": "DİNLEME",
-            "icerik": "T.D.1.1. Dinleme/izlemeyi yönetebilme"
+            "ay": null,
+            "hafta": "15 Temmuz Demokrasi ve Millî Birlik Günü İlköğretim Haftası (15-19 Eylül)",
+            "dersSaati": "5",
+            "unite": "HAREKETİMİ GELİŞTİRİYORUM",
+            "konu": "Temel Hareket Becerileri",
+            "ogrenmeCiktisi": "BEO.2.1.1. Temel hareket becerilerini sergileyebilme",
+            "surecBileseni": "a) Yer değiştirme, nesne kontrolü ve denge becerileri arasındaki farkları algılar. b) Yer değiştirme, nesne kontrolü ve denge becerilerinin basamaklarını gösterir. c) Yer değiştirme, nesne kontrolü ve denge becerilerini farklı durumlarda uygular.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
-            "ay": "EYLÜL",
-            "hafta": "3. Hafta: 22-26 Eylül",
-            "konu": "DİNLEME",
-            "icerik": "T.D.1.1. Dinleme/izlemeyi yönetebilme"
+            "ay": null,
+            "hafta": "Hayvanları Koruma Günü (4 Ekim)",
+            "dersSaati": "5",
+            "unite": "HAREKETİMİ GELİŞTİRİYORUM",
+            "konu": "Temel Hareket Becerileri",
+            "ogrenmeCiktisi": "BEO.2.1.1. Temel hareket becerilerini sergileyebilme",
+            "surecBileseni": "a) Yer değiştirme, nesne kontrolü ve denge becerileri arasındaki farkları algılar. b) Yer değiştirme, nesne kontrolü ve denge becerilerinin basamaklarını gösterir. c) Yer değiştirme, nesne kontrolü ve denge becerilerini farklı durumlarda uygular.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
-            "ay": "EKİM",
-            "hafta": "4. Hafta: 29 Eylül- 3 Ekim",
-            "konu": "DİNLEME",
-            "icerik": "T.D.1.1. Dinleme/izlemeyi yönetebilme"
+            "ay": null,
+            "hafta": "Cumhuriyet Bayramı (29 Ekim)",
+            "dersSaati": "5",
+            "unite": "HAREKETİMİ GELİŞTİRİYORUM",
+            "konu": "Temel Hareket Becerileri",
+            "ogrenmeCiktisi": "BEO.2.1.1. Temel hareket becerilerini sergileyebilme",
+            "surecBileseni": "a) Yer değiştirme, nesne kontrolü ve denge becerileri arasındaki farkları algılar. b) Yer değiştirme, nesne kontrolü ve denge becerilerinin basamaklarını gösterir. c) Yer değiştirme, nesne kontrolü ve denge becerilerini farklı durumlarda uygular.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
-            "ay": "EKİM",
-            "hafta": "5. Hafta: 6-10 Ekim",
-            "konu": "DİNLEME",
-            "icerik": "T.D.1.2. Dinledikleri/izledikleri ile ilgili anlam oluşturabilme"
+            "ay": null,
+            "hafta": "Atatürk Haftası (10-16 Kasım) Afet Eğitimi Hazırlık Günü (12 Kasım)",
+            "dersSaati": "5",
+            "unite": "HAREKETİMİ GELİŞTİRİYORUM",
+            "konu": "Oyunlarda Grupla Hareket",
+            "ogrenmeCiktisi": "BEO.2.1.2. Oyunlarda grupla hareket edebilme",
+            "surecBileseni": "a) Grupla hareket ederken rolleri tanımlar. b) Grupla hareket ederken rolleri yerine getirir. c) Grupla uyumlu hareket eder.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
-            "ay": "EKİM",
-            "hafta": "6. Hafta: 13-17 Ekim",
-            "konu": "DİNLEME",
-            "icerik": "T.D.1.2. Dinledikleri/izledikleri ile ilgili anlam oluşturabilme"
+            "ay": null,
+            "hafta": "Dünya Çocuk Hakları Günü (20 Kasım)",
+            "dersSaati": "5",
+            "unite": "HAREKETİMİ GELİŞTİRİYORUM",
+            "konu": "Oyunlarda Grupla Hareket",
+            "ogrenmeCiktisi": "BEO.2.1.2. Oyunlarda grupla hareket edebilme",
+            "surecBileseni": "a) Grupla hareket ederken rolleri tanımlar. b) Grupla hareket ederken rolleri yerine getirir. c) Grupla uyumlu hareket eder.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
-            "ay": "EKİM",
-            "hafta": "7. Hafta: 20-24 Ekim",
-            "konu": "DİNLEME",
-            "icerik": "T.D.1.2. Dinledikleri/izledikleri ile ilgili anlam oluşturabilme"
+            "ay": null,
+            "hafta": "Öğretmenler Günü (24 Kasım)",
+            "dersSaati": "5",
+            "unite": "HAREKETİMİ GELİŞTİRİYORUM",
+            "konu": "Oyunlarda Grupla Hareket",
+            "ogrenmeCiktisi": "BEO.2.1.2. Oyunlarda grupla hareket edebilme",
+            "surecBileseni": "a) Grupla hareket ederken rolleri tanımlar. b) Grupla hareket ederken rolleri yerine getirir. c) Grupla uyumlu hareket eder.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
-            "ay": "EKİM",
-            "hafta": "8. Hafta: 27-31 Ekim",
-            "konu": "DİNLEME",
-            "icerik": "T.D.1.2. Dinledikleri/izledikleri ile ilgili anlam oluşturabilme"
+            "ay": null,
+            "hafta": "3 Aralık Dünya Engelliler Günü",
+            "dersSaati": "5",
+            "unite": "HAREKETİMİ GELİŞTİRİYORUM",
+            "konu": "Oyunlarda Grupla Hareket",
+            "ogrenmeCiktisi": "BEO.2.1.2. Oyunlarda grupla hareket edebilme",
+            "surecBileseni": "a) Grupla hareket ederken rolleri tanımlar. b) Grupla hareket ederken rolleri yerine getirir. c) Grupla uyumlu hareket eder.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
-            "ay": "KASIM",
-            "hafta": "9. Hafta: 3-7 Kasım",
-            "konu": "DİNLEME",
-            "icerik": "T.D.1.2. Dinledikleri/izledikleri ile ilgili anlam oluşturabilme"
+            "ay": null,
+            "hafta": "İnsan Hakları ve Demokrasi Haftası (10 Aralık)",
+            "dersSaati": "5",
+            "unite": "HAREKETİMİ GELİŞTİRİYORUM",
+            "konu": "Oyunlarda Grupla Hareket",
+            "ogrenmeCiktisi": "BEO.2.1.2. Oyunlarda grupla hareket edebilme",
+            "surecBileseni": "a) Grupla hareket ederken rolleri tanımlar. b) Grupla hareket ederken rolleri yerine getirir. c) Grupla uyumlu hareket eder.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
-            "ay": "KASIM",
-            "hafta": "10. Hafta: 17-21 Kasım",
-            "konu": "DİNLEME",
-            "icerik": "T.D.1.3. Dinlediklerini/izlediklerini çözümleyebilme"
+            "ay": "BEOSAB8. Adil Oyun Anlayışına Uygun Davranma, KB2.11. Gözleme Dayalı Tahmin Etme",
+            "hafta": "Tutum, Yatırım ve Türk Malları Haftası (12-18 Aralık)",
+            "dersSaati": "5",
+            "unite": "OYUNUN KURALLARINI UYGULUYORUM",
+            "konu": "Oyunlarda Hareket Kavramları",
+            "ogrenmeCiktisi": "BEO.2.2.1. Oyunlarda hareket kavramlarını uygulayabilme",
+            "surecBileseni": "a) Beden farkındalığı, alan farkındalığı, efor ve hareket ilişkileri kavram bileşenlerini ayırt eder. b) Temel hareket becerileri ile hareket kavramları arasında ilişki kurar. c) Oyunlarda hareket kavramlarına ve temel hareket becerilerine uygun olarak hareket eder.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
-            "ay": "KASIM",
-            "hafta": "11. Hafta: 24-28 Kasım",
-            "konu": "DİNLEME",
-            "icerik": "T.D.1.3. Dinlediklerini/izlediklerini çözümleyebilme"
+            "ay": null,
+            "hafta": "Enerji Tasarrufu Haftası",
+            "dersSaati": "5",
+            "unite": "OYUNUN KURALLARINI UYGULUYORUM",
+            "konu": "Oyunlarda Taktik ve Strateji",
+            "ogrenmeCiktisi": "BEO.2.2.3. Oyunlarda belirlenen taktik ve stratejiyi geliştirebilme",
+            "surecBileseni": "a) Oyunlarda taktiksel problemi belirler. b) Oyunlarda belirlenen problemin çözümüne ilişkin öneri sunar. c) Oyunlarda taktik ve stratejiyi uygular.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
-            "ay": "ARALIK",
-            "hafta": "12. Hafta: 1-5 Aralık",
-            "konu": "DİNLEME",
-            "icerik": "T.D.1.3. Dinlediklerini/izlediklerini çözümleyebilme"
+            "ay": "BEOSAB7. Eşle/Grupla Hareket Etme",
+            "hafta": null,
+            "dersSaati": "5",
+            "unite": "RİTİMLE HAREKET EDİYORUM",
+            "konu": "Belirlenen Tempodaki Müziğe Uygun Hareket Etme",
+            "ogrenmeCiktisi": "BEO.2.3.1. Belirlenen tempodaki müziğe uygun hareket edebilme",
+            "surecBileseni": null,
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
-            "ay": "ARALIK",
-            "hafta": "13. Hafta: 8-12 Aralık",
-            "konu": "DİNLEME",
-            "icerik": "T.D.1.4. Dinleme/izleme sürecini değerlendirebilme"
+            "ay": null,
+            "hafta": "Yeşilay Haftası (1-7 Mart) 8 Mart Dünya Kadınlar Günü",
+            "dersSaati": "5",
+            "unite": "RİTİMLE HAREKET EDİYORUM",
+            "konu": "Eşle veya Grupla Ritmik Hareket",
+            "ogrenmeCiktisi": "BEO.2.3.2. Eşle veya grupla ritmik hareket etme becerisini sergileyebilme",
+            "surecBileseni": "a) Eşle veya grupla temel hareket becerilerini kullanarak verilen ritmi algılar. b) Eşle veya grupla temel hareket becerilerini kullanarak ritme uygun hareket eder. c) Eşle veya grupla temel hareket becerilerini kullanarak ritmik hareket becerilerini sergiler.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
-            "ay": "ARALIK",
-            "hafta": "14. Hafta: 15-19 Aralık",
-            "konu": "OKUMA",
-            "icerik": "T.O.1.1. Okumayı yönetebilme"
+            "ay": null,
+            "hafta": "İstiklâl Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü (12 Mart) Bilim ve Teknoloji Haftası (8-14 Mart)",
+            "dersSaati": "5",
+            "unite": "RİTİMLE HAREKET EDİYORUM",
+            "konu": "Eşle veya Grupla Ritmik Hareket",
+            "ogrenmeCiktisi": "BEO.2.3.2. Eşle veya grupla ritmik hareket etme becerisini sergileyebilme",
+            "surecBileseni": "a) Eşle veya grupla temel hareket becerilerini kullanarak verilen ritmi algılar. b) Eşle veya grupla temel hareket becerilerini kullanarak ritme uygun hareket eder. c) Eşle veya grupla temel hareket becerilerini kullanarak ritmik hareket becerilerini sergiler.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
-            "ay": "ARALIK",
-            "hafta": "15. Hafta: 22-26 Aralık",
-            "konu": "OKUMA",
-            "icerik": "T.O.1.1. Okumayı yönetebilme"
+            "ay": null,
+            "hafta": "Dünya Su Günü (22 Mart) Orman Haftası (21-26 Mart)",
+            "dersSaati": "2+3",
+            "unite": "RİTİMLE HAREKET EDİYORUM SAĞLIĞIM İÇİN FİZİKSEL AKTİVİTEYE KATILIYORUM",
+            "konu": "Eşle veya Grupla Ritmik Hareket Fiziksel Aktiviteye Katılım Sırasında Vücutta Meydana Gelen Değişimler",
+            "ogrenmeCiktisi": "BEO.2.3.2. Eşle veya grupla ritmik hareket etme becerisini sergileyebilme BEO.2.4.1. Fiziksel aktivite sırasında vücudunda meydana gelen değişimleri açıklayabilme",
+            "surecBileseni": "a) Eşle veya grupla temel hareket becerilerini kullanarak verilen ritmi algılar. b) Eşle veya grupla temel hareket becerilerini kullanarak ritme uygun hareket eder. c) Eşle veya grupla temel hareket becerilerini kullanarak ritmik hareket becerilerini sergiler.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
-            "ay": "OCAK",
-            "hafta": "17. Hafta: 5-9 Ocak",
-            "konu": "OKUMA",
-            "icerik": "T.O.1.1. Okumayı yönetebilme"
+            "ay": "KB2.3. Özetleme, KB2.17. Değerlendirme, KB3.1. Karar Verme, BEOSAB4. Fiziksel Aktiviteye Katılma",
+            "hafta": "Dünya Otizm Farkındalık Günü (2 Nisan)",
+            "dersSaati": "5",
+            "unite": "SAĞLIĞIM İÇİN FİZİKSEL AKTİVİTEYE KATILIYORUM",
+            "konu": "Fiziksel Aktiviteye Katılım Sırasında Vücutta Meydana Gelen Değişimler",
+            "ogrenmeCiktisi": "BEO.2.4.1. Fiziksel aktivite sırasında vücudunda meydana gelen değişimleri açıklayabilme",
+            "surecBileseni": null,
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
-            "ay": "OCAK",
-            "hafta": "18. Hafta: 12-16 Ocak",
-            "konu": "OKUMA",
-            "icerik": "T.O.1.1. Okumayı yönetebilme"
+            "ay": null,
+            "hafta": "Dünya Sağlık Günün (7 Nisan)",
+            "dersSaati": "5",
+            "unite": "SAĞLIĞIM İÇİN FİZİKSEL AKTİVİTEYE KATILIYORUM",
+            "konu": "Fiziksel Aktiviteye Katılım Sırasında Vücutta Meydana Gelen Değişimler",
+            "ogrenmeCiktisi": "BEO.2.4.1. Fiziksel aktivite sırasında vücudunda meydana gelen değişimleri açıklayabilme",
+            "surecBileseni": null,
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
-            "ay": "ŞUBAT",
-            "hafta": "19. Hafta: 2-6 Şubat",
-            "konu": "OKUMA",
-            "icerik": "T.O.1.2. Anlam oluşturabilme"
+            "ay": null,
+            "hafta": "23 Nisan Ulusal Egemenlik Çocuk Bayramı",
+            "dersSaati": "5",
+            "unite": "SAĞLIĞIM İÇİN FİZİKSEL AKTİVİTEYE KATILIYORUM",
+            "konu": "Fiziksel Aktiviteye Katılım",
+            "ogrenmeCiktisi": "BEO.2.4.2. Kendisinin ve yakın çevresinin fiziksel aktiviteye katılımlarını karşılaştırabilme",
+            "surecBileseni": "a) Kendisinin ve yakın çevresinin fiziksel aktivite katılım durumlarını belirler. b) Kendisinin ve yakın çevresinin fiziksel aktivite katılım durumları arasındaki benzerlikleri listeler. c) Kendisinin ve yakın çevresinin fiziksel aktivite katılım durumları arasındaki farklılıkları listeler.",
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
-            "ay": "ŞUBAT",
-            "hafta": "20. Hafta: 9-13 Şubat",
-            "konu": "OKUMA",
-            "icerik": "T.O.1.2. Anlam oluşturabilme"
+            "ay": null,
+            "hafta": "Anneler Günü (Mayıs ayının 2. Pazar günü)",
+            "dersSaati": "5",
+            "unite": "SAĞLIĞIM İÇİN FİZİKSEL AKTİVİTEYE KATILIYORUM",
+            "konu": "Fiziksel Aktiviteye Katılım Hedefleri",
+            "ogrenmeCiktisi": "BEO.2.4.3. Fiziksel aktiviteye katılım hedefleri belirleyebilme",
+            "surecBileseni": null,
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
-            "ay": "ŞUBAT",
-            "hafta": "21. Hafta: 16-20 Şubat",
-            "konu": "OKUMA",
-            "icerik": "T.O.1.2. Anlam oluşturabilme"
+            "ay": null,
+            "hafta": "Trafik ve İlkyardım Haftası (Mayıs ayının ilk haftası)",
+            "dersSaati": "5",
+            "unite": "SAĞLIĞIM İÇİN FİZİKSEL AKTİVİTEYE KATILIYORUM",
+            "konu": "Fiziksel Aktiviteye Katılım Hedefleri",
+            "ogrenmeCiktisi": "BEO.2.4.3. Fiziksel aktiviteye katılım hedefleri belirleyebilme",
+            "surecBileseni": null,
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           },
           {
-            "ay": "ŞUBAT",
-            "hafta": "22. Hafta: 23-27 Şubat",
-            "konu": "OKUMA",
-            "icerik": "T.O.1.2. Anlam oluşturabilme"
-          },
-          {
-            "ay": "MART",
-            "hafta": "23. Hafta: 2-6 Mart",
-            "konu": "OKUMA",
-            "icerik": "T.O.1.2. Anlam oluşturabilme"
-          },
-          {
-            "ay": "MART",
-            "hafta": "24. Hafta: 9-13 Mart",
-            "konu": "OKUMA",
-            "icerik": "T.O.1.2. Anlam oluşturabilme"
-          },
-          {
-            "ay": "MART",
-            "hafta": "26. Hafta: 30 Mart- 3 Nisan",
-            "konu": "OKUMA",
-            "icerik": "T.O.1.2. Anlam oluşturabilme"
-          },
-          {
-            "ay": "NİSAN",
-            "hafta": "27. Hafta: 6-10 Nisan",
-            "konu": "OKUMA",
-            "icerik": "T.O.1.3. Okuduklarını çözümleyebilme"
-          },
-          {
-            "ay": "NİSAN",
-            "hafta": "28. Hafta: 13-17 Nisan",
-            "konu": "OKUMA",
-            "icerik": "T.O.1.3. Okuduklarını çözümleyebilme"
-          },
-          {
-            "ay": "NİSAN",
-            "hafta": "29. Hafta: 20-24 Nisan",
-            "konu": "OKUMA",
-            "icerik": "T.O.1.3. Okuduklarını çözümleyebilme"
-          },
-          {
-            "ay": "NİSAN",
-            "hafta": "30. Hafta: 27 Nisan-1 Mayıs",
-            "konu": "OKUMA",
-            "icerik": "T.O.1.4. Okuma sürecini değerlendirebilme"
-          },
-          {
-            "ay": "MAYIS",
-            "hafta": "31. Hafta: 4-8 Mayıs",
-            "konu": "KONUŞMA",
-            "icerik": "T.K.1.1. Konuşmayı yönetebilme"
-          },
-          {
-            "ay": "MAYIS",
-            "hafta": "32. Hafta: 11-15 Mayıs",
-            "konu": "KONUŞMA",
-            "icerik": "T.K.1.2. Anlam oluşturabilme"
-          },
-          {
-            "ay": "MAYIS",
-            "hafta": "33. Hafta: 18-22 Mayıs",
-            "konu": "KONUŞMA",
-            "icerik": "T.K.1.3. Konuştuklarını çözümleyebilme"
-          },
-          {
-            "ay": "MAYIS",
-            "hafta": "34. Hafta: 25-29 Mayıs",
-            "konu": "KONUŞMA",
-            "icerik": "T.K.1.4. Konuşma sürecini değerlendirebilme"
-          },
-          {
-            "ay": "HAZİRAN",
-            "hafta": "35.Hafta: 8-12 Haziran",
-            "konu": "YAZMA",
-            "icerik": "T.Y.1.1. Yazmayı yönetebilme"
-          },
-          {
-            "ay": "HAZİRAN",
-            "hafta": "36. Hafta: 15-19 Haziran",
-            "konu": "YAZMA",
-            "icerik": "T.Y.1.2. Anlam oluşturabilme"
+            "ay": null,
+            "hafta": "19 Mayıs Atatürk'ü Anma ve Gençlik ve Spor Bayramı",
+            "dersSaati": "5",
+            "unite": "SAĞLIĞIM İÇİN FİZİKSEL AKTİVİTEYE KATILIYORUM",
+            "konu": "Fiziksel Aktivite ve Sağlık İlişkisi",
+            "ogrenmeCiktisi": "BEO.2.4.4. Fiziksel aktivite ve sağlık arasındaki ilişkiyi açıklayabilme",
+            "surecBileseni": null,
+            "metin": null,
+            "dinleme": null,
+            "okuma": null,
+            "konusma": null
           }
         ]
       }
